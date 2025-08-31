@@ -1,0 +1,31 @@
+Product_ID,Product_Name,Category,Price_USD,Rating,Description
+P001,AlphaBook Pro,Laptop,1200,4.5,"The AlphaBook Pro features a 15-inch Retina display, 16GB RAM, 512GB SSD, and an Intel Core i7 processor. Ideal for professionals who need performance and portability."
+P002,BetaTab S,Tablet,500,4.2,"BetaTab S is a lightweight tablet with a 15-inch display, 4GB RAM, and 64GB storage. Perfect for entertainment and light work on the go."
+P003,GammaPhone X,Smartphone,800,4.7,"GammaPhone X comes with a 6.7-inch AMOLED display, 128GB storage, and a 48MP triple camera system. Designed for photography enthusiasts and power users."
+P004,DeltaWatch 2,Smartwatch,300,4,"DeltaWatch 2 offers fitness tracking, heart rate monitoring, and GPS with a 1.4-inch OLED display. Great for active users looking to stay connected on the move."
+P005,EpsilonCam 300,Camera,600,4.1,"EpsilonCam 300 is a mirrorless camera with a 24MP sensor, 4K video recording, and interchangeable lenses. Perfect for aspiring photographers."
+P006,ZetaHeadphones,Headphones,150,4.3,ZetaHeadphones deliver immersive sound with noise-cancellation technology and Bluetooth 5.0. Comfortable for long listening sessions.
+P007,EtaMouse X,Mouse,50,4.6,EtaMouse X is a wireless ergonomic mouse with adjustable DPI settings and long battery life. Great for gamers and professionals.
+P008,ThetaKeyboard Pro,Keyboard,100,4,"ThetaKeyboard Pro is a mechanical keyboard with RGB lighting, dedicated macro keys, and a durable build. Ideal for gaming and productivity."
+P009,IotaMonitor Q,Monitor,250,4.4,"IotaMonitor Q features a 27-inch QHD display with 120Hz refresh rate, perfect for gaming and creative work with vibrant color accuracy."
+P010,KappaCharger,Charger,30,4,"KappaCharger is a compact, fast charger compatible with multiple devices, providing quick power on the go with USB-C support."
+P011,AlphaBook Air,Laptop,1000,4.6,"AlphaBook Air offers a sleek 13-inch Retina display, 8GB RAM, 256GB SSD, and Intel Core i5, designed for portability and efficiency."
+P012,BetaTab Lite,Tablet,400,4.1,"BetaTab Lite is a budget-friendly 10-inch tablet with 2GB RAM and 32GB storage, perfect for casual browsing and entertainment."
+P013,GammaPhone Y,Smartphone,750,4.8,"GammaPhone Y features a 6.5-inch OLED display, 64GB storage, and a dual 12MP camera, ideal for everyday use with a sleek design."
+P014,DeltaWatch Mini,Smartwatch,250,3.9,DeltaWatch Mini is a compact fitness tracker with a 1.2-inch OLED display and basic health monitoring features for casual users.
+P015,EpsilonCam 200,Camera,550,4,"EpsilonCam 200 is an entry-level DSLR with 18MP sensor, full HD video recording, and a user-friendly interface for beginners."
+P016,ZetaEarbuds,Headphones,100,4.4,"ZetaEarbuds provide crystal clear sound with wireless connectivity and up to 24 hours of battery life, great for on-the-go users."
+P017,EtaMouse Lite,Mouse,40,4.5,"EtaMouse Lite is a compact wireless mouse with a simple design, perfect for office work or travel."
+P018,ThetaKeyboard Mini,Keyboard,80,4.1,"ThetaKeyboard Mini is a smaller version of the Pro, featuring membrane keys and a lightweight design for portable setups."
+P019,IotaMonitor Ultra,Monitor,300,4.6,"IotaMonitor Ultra delivers a 34-inch ultrawide display with a 144Hz refresh rate, perfect for immersive gaming and multitasking."
+P020,KappaCharger Pro,Charger,40,4.3,KappaCharger Pro is an advanced fast charger with dual USB-C ports and high-speed charging for multiple devices.
+P021,OmniBook Elite,Laptop,1300,4.7,"OmniBook Elite is a powerful 14-inch laptop with 16GB RAM, 512GB SSD, and Intel Core i7, perfect for productivity and multitasking."
+P022,SpectraTab Max,Tablet,600,4.3,"SpectraTab Max features a 12-inch Retina display, 6GB RAM, and 128GB storage, designed for entertainment and professional use."
+P023,HyperPhone S,Smartphone,900,4.9,"HyperPhone S offers a 6.9-inch AMOLED display, 256GB storage, and a 64MP quad-camera setup, perfect for power users and photographers."
+P024,PulseWatch XL,Smartwatch,350,4.2,"PulseWatch XL includes a large 1.8-inch OLED display, GPS, heart rate monitor, and LTE connectivity for fitness enthusiasts and travelers."
+P025,AeroCam 700,Camera,700,4.5,"AeroCam 700 is a high-end DSLR camera with a 36MP sensor, 8K video support, and professional-grade autofocus for advanced photographers."
+P026,EchoBuds Wireless,Headphones,180,4.6,"EchoBuds Wireless deliver immersive sound with active noise-cancellation and 30 hours of battery life, ideal for music lovers on the go."
+P027,PrimeMouse,Mouse,60,4.8,"PrimeMouse is a premium ergonomic wireless mouse with adjustable DPI settings, ideal for gaming and professional use."
+P028,LumenKeyboard,Keyboard,90,4,LumenKeyboard is a full-size mechanical keyboard with customizable RGB lighting and dedicated macro keys for gamers and professionals.
+P029,FusionMonitor,Monitor,350,4.7,"FusionMonitor features a 32-inch UHD display with a 144Hz refresh rate and HDR support, designed for both gaming and creative work."
+P030,VoltCharger,Charger,50,4.1,"VoltCharger is a multi-port fast charger with USB-C and wireless charging capabilities, perfect for charging multiple devices at once."
