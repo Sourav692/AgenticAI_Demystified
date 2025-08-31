@@ -1,0 +1,84 @@
+{
+    "image": {
+        "creation_timestamp": 1675549016,
+        "uri": "image_of_the_meeting.jpg"
+    },
+    "is_still_participant": true,
+    "joinable_mode": {
+        "link": "",
+        "mode": 1
+    },
+    "magic_words": [],
+    "messages": [
+        {
+            "content": "See you soon!",
+            "sender_name": "User B",
+            "timestamp_ms": 1675597571851
+        },
+        {
+            "content": "Thanks for the update! See you then.",
+            "sender_name": "User A",
+            "timestamp_ms": 1675597435669
+        },
+        {
+            "content": "Actually, the green one is sold out.",
+            "sender_name": "User B",
+            "timestamp_ms": 1675596277579
+        },
+        {
+            "content": "I was hoping to purchase the green one!",
+            "sender_name": "User A",
+            "timestamp_ms": 1675595140251
+        },
+        {
+            "content": "I\u2019m really interested in the green one, not the red!",
+            "sender_name": "User A",
+            "timestamp_ms": 1675595109305
+        },
+        {
+            "content": "Here\u2019s the $150 for it.",
+            "sender_name": "User B",
+            "timestamp_ms": 1675595068468
+        },
+        {
+            "photos": [
+                {
+                    "creation_timestamp": 1675595059,
+                    "uri": "image_of_the_item.jpg"
+                }
+            ],
+            "sender_name": "User B",
+            "timestamp_ms": 1675595060730
+        },
+        {
+            "content": "It typically sells for at least $200 online",
+            "sender_name": "User B",
+            "timestamp_ms": 1675595045152
+        },
+        {
+            "content": "How much are you asking?",
+            "sender_name": "User A",
+            "timestamp_ms": 1675594799696
+        },
+        {
+            "content": "Good morning! $50 is far too low.",
+            "sender_name": "User B",
+            "timestamp_ms": 1675577876645
+        },
+        {
+            "content": "Hello! I\u2019m interested in the item you posted. I can offer $50. Let me know if that works for you. Thanks!",
+            "sender_name": "User A",
+            "timestamp_ms": 1675549022673
+        }
+    ],
+    "participants": [
+        {
+            "name": "User A"
+        },
+        {
+            "name": "User B"
+        }
+    ],
+    "thread_path": "inbox/User A and User B chat",
+    "title": "User A and User B chat"
+}
