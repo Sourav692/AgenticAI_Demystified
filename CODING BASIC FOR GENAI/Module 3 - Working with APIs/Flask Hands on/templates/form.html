@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Compute Square Root</title>
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='styles.css') }}">
+</head>
+<body>
+    <div class="container">
+        <h1>Compute Square Root</h1>
+		<p> Divide the Number1 by Number2 and the Compute the Square Root <p>
+        {% if error %}
+            <div class="error">{{ error }}</div>
+        {% endif %}
+        <form method="post" action="/sqrt">
+            <label for="num1">Number 1:</label>
+            <input type="text" id="num1" name="num1" required>
+
+            <label for="num2">Number 2:</label>
+            <input type="text" id="num2" name="num2" required>
+
+            <input type="submit" value="Compute">
+        </form>
+    </div>
+</body>
+</html>

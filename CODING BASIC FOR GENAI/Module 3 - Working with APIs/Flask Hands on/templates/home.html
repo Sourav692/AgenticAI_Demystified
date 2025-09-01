@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Welcome</title>
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='styles.css') }}">
+</head>
+<body>
+    <div class="container">
+        <h1>Welcome to the Square Root Calculator</h1>
+        <p>To use the application, please navigate to the following link:</p>
+        <a href="{{ url_for('compute_sqrt') }}" class="button">Go to Calculator</a>
+    </div>
+</body>
+</html>

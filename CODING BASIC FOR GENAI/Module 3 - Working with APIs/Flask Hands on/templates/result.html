@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Result</title>
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='styles.css') }}">
+</head>
+<body>
+    <div class="container">
+        <h1>Computation Result</h1>
+        <h2>The square root of {{ division_result }} is:</h2>
+        <p>{{ sqrt_result }}</p>
+        <a href="/sqrt" class="button">Compute Another</a>
+    </div>
+</body>
+</html>
