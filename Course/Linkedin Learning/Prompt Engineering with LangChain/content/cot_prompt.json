@@ -1,0 +1,15 @@
+{
+    "name": null,
+    "input_variables": [
+        "question"
+    ],
+    "optional_variables": [],
+    "output_parser": null,
+    "partial_variables": {},
+    "metadata": null,
+    "tags": null,
+    "template": "You are an insightful question answering bot. A user will submit questions, which are delimited by triple backticks, and you should respond in an insighful manner.\n\nQuestion: ```{question}```\n\nTake a deep breath, and think step by step before answering.\n\nAnswer:\n",
+    "template_format": "f-string",
+    "validate_template": false,
+    "_type": "prompt"
+}
