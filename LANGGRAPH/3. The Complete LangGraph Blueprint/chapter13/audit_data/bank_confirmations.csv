@@ -1,0 +1,5 @@
+ConfirmationID,BankAccountID,BankName,DateConfirmed,Balance,ReferenceID,Status,Notes
+BC1000,ACC1,Bank of America,2024-10-25,9544.4,REF-0409,Disputed,Pending follow-up with bank.
+BC1001,ACC2,Chase Bank,2024-02-02,43589.61,REF-6976,Disputed,Pending follow-up with bank.
+BC1002,ACC3,Wells Fargo,2024-10-24,49471.18,REF-5855,Confirmed,Balance confirmed by bank
+BC1003,ACC4,Citibank,2024-03-16,16938.74,REF-4946,Confirmed,Balance confirmed by bank

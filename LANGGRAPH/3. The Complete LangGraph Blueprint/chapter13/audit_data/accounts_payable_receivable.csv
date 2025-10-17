@@ -1,0 +1,51 @@
+RecordID,Date,Type,Vendor_Customer,Amount,DueDate,PaymentStatus,InvoiceNumber,AccountCode,Description
+APAR1000,2024-01-07,Payable,Tech Solutions Inc.,6056.41,2024-11-14,Paid,INV-6588,1317,Payable for Tech Solutions Inc.
+APAR1001,2024-06-21,Payable,Fleet Rentals,9602.69,2024-11-16,Overdue,INV-0474,3244,Payable for Fleet Rentals
+APAR1002,2024-03-26,Receivable,Client B,1109.0,2024-11-18,Paid,INV-9200,6276,Receivable for Client B
+APAR1003,2024-02-07,Payable,Fleet Rentals,9274.43,2024-11-06,Partially Paid,INV-8945,8017,Payable for Fleet Rentals
+APAR1004,2024-10-27,Payable,Fleet Rentals,4773.77,2024-11-11,Paid,INV-5004,5309,Payable for Fleet Rentals
+APAR1005,2024-05-02,Receivable,Client A,4650.55,2024-11-24,Unpaid,INV-2606,7364,Receivable for Client A
+APAR1006,2024-09-24,Payable,OfficeMax,8825.91,2024-11-27,Overdue,INV-2497,7501,Payable for OfficeMax
+APAR1007,2024-01-04,Receivable,Partner Co.,1074.4,2024-11-21,Overdue,INV-9077,1523,Receivable for Partner Co.
+APAR1008,2024-01-14,Payable,Tech Solutions Inc.,3272.34,2024-11-13,Partially Paid,INV-8742,5543,Payable for Tech Solutions Inc.
+APAR1009,2024-01-11,Receivable,Partner Co.,6369.07,2024-11-14,Paid,INV-9328,6360,Receivable for Partner Co.
+APAR1010,2024-01-10,Payable,Tech Solutions Inc.,7807.51,2024-11-09,Partially Paid,INV-4678,4727,Payable for Tech Solutions Inc.
+APAR1011,2024-06-11,Payable,Fleet Rentals,6281.91,2024-11-06,Paid,INV-1846,5146,Payable for Fleet Rentals
+APAR1012,2024-05-21,Receivable,Partner Co.,1790.92,2024-11-02,Unpaid,INV-0525,3230,Receivable for Partner Co.
+APAR1013,2024-09-01,Receivable,Client B,9393.31,2024-11-07,Partially Paid,INV-6241,4948,Receivable for Client B
+APAR1014,2024-06-07,Receivable,Client B,271.14,2024-11-09,Paid,INV-5084,2253,Receivable for Client B
+APAR1015,2024-04-16,Receivable,Client A,7642.2,2024-11-23,Paid,INV-4393,7823,Receivable for Client A
+APAR1016,2024-03-07,Receivable,Corporate Services,8636.78,2024-11-26,Paid,INV-5696,9011,Receivable for Corporate Services
+APAR1017,2024-02-14,Payable,Tech Solutions Inc.,1412.4,2024-11-21,Overdue,INV-8740,1138,Payable for Tech Solutions Inc.
+APAR1018,2024-06-11,Receivable,Corporate Services,1614.04,2024-11-17,Paid,INV-3519,5403,Receivable for Corporate Services
+APAR1019,2024-03-25,Payable,Stationery Supplies,8012.08,2024-11-16,Overdue,INV-0164,1587,Payable for Stationery Supplies
+APAR1020,2024-09-01,Payable,Fleet Rentals,3258.47,2024-11-06,Overdue,INV-2166,1067,Payable for Fleet Rentals
+APAR1021,2024-01-02,Receivable,Partner Co.,3071.0,2024-11-20,Paid,INV-5080,7472,Receivable for Partner Co.
+APAR1022,2024-10-03,Receivable,Partner Co.,5565.04,2024-11-28,Overdue,INV-6259,7473,Receivable for Partner Co.
+APAR1023,2024-02-15,Receivable,Client B,4219.97,2024-11-20,Paid,INV-3880,7467,Receivable for Client B
+APAR1024,2024-07-12,Payable,Fleet Rentals,591.46,2024-11-06,Partially Paid,INV-9087,7029,Payable for Fleet Rentals
+APAR1025,2024-05-06,Receivable,Corporate Services,1174.98,2024-11-04,Unpaid,INV-5841,6585,Receivable for Corporate Services
+APAR1026,2024-06-06,Receivable,Client B,5020.19,2024-11-10,Paid,INV-7434,3350,Receivable for Client B
+APAR1027,2024-09-08,Payable,Stationery Supplies,761.27,2024-11-02,Paid,INV-0135,2650,Payable for Stationery Supplies
+APAR1028,2024-05-05,Payable,Stationery Supplies,6229.36,2024-11-12,Partially Paid,INV-5430,3975,Payable for Stationery Supplies
+APAR1029,2024-05-21,Payable,Stationery Supplies,1982.71,2024-11-28,Partially Paid,INV-2261,1423,Payable for Stationery Supplies
+APAR1030,2024-05-01,Receivable,Partner Co.,1029.63,2024-11-30,Overdue,INV-1780,8116,Receivable for Partner Co.
+APAR1031,2024-09-01,Payable,Stationery Supplies,4186.14,2024-11-21,Partially Paid,INV-8675,2086,Payable for Stationery Supplies
+APAR1032,2024-08-10,Receivable,Client B,9259.23,2024-11-04,Unpaid,INV-2731,1195,Receivable for Client B
+APAR1033,2024-08-27,Receivable,Corporate Services,262.31,2024-11-21,Paid,INV-4488,2376,Receivable for Corporate Services
+APAR1034,2024-03-18,Receivable,Client B,9702.73,2024-11-06,Unpaid,INV-9709,6557,Receivable for Client B
+APAR1035,2024-10-19,Payable,Stationery Supplies,1540.4,2024-11-30,Overdue,INV-2787,8012,Payable for Stationery Supplies
+APAR1036,2024-05-23,Payable,OfficeMax,9972.44,2024-11-27,Unpaid,INV-1577,9546,Payable for OfficeMax
+APAR1037,2024-01-25,Receivable,Client B,3048.26,2024-11-02,Overdue,INV-6822,6615,Receivable for Client B
+APAR1038,2024-07-11,Payable,Stationery Supplies,2068.94,2024-11-05,Partially Paid,INV-1646,8451,Payable for Stationery Supplies
+APAR1039,2024-03-25,Receivable,Corporate Services,4638.12,2024-11-22,Partially Paid,INV-3714,2245,Receivable for Corporate Services
+APAR1040,2024-08-08,Receivable,Corporate Services,2185.33,2024-11-07,Paid,INV-9334,3903,Receivable for Corporate Services
+APAR1041,2024-08-20,Receivable,Corporate Services,5860.59,2024-11-24,Paid,INV-7232,7897,Receivable for Corporate Services
+APAR1042,2024-04-13,Receivable,Client B,3624.22,2024-11-08,Overdue,INV-5612,3225,Receivable for Client B
+APAR1043,2024-03-18,Receivable,Client A,7826.16,2024-11-29,Paid,INV-4244,4379,Receivable for Client A
+APAR1044,2024-10-11,Payable,Fleet Rentals,2433.33,2024-11-07,Overdue,INV-3899,2173,Payable for Fleet Rentals
+APAR1045,2024-01-07,Payable,OfficeMax,4147.82,2024-11-09,Paid,INV-6066,1473,Payable for OfficeMax
+APAR1046,2024-02-11,Receivable,Partner Co.,4351.48,2024-11-11,Unpaid,INV-2583,2694,Receivable for Partner Co.
+APAR1047,2024-03-04,Payable,Fleet Rentals,7543.39,2024-11-08,Unpaid,INV-4592,6400,Payable for Fleet Rentals
+APAR1048,2024-03-05,Payable,OfficeMax,4133.19,2024-11-04,Paid,INV-9082,2355,Payable for OfficeMax
+APAR1049,2024-04-11,Payable,Fleet Rentals,7667.18,2024-11-13,Overdue,INV-3674,6150,Payable for Fleet Rentals

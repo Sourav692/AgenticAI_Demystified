@@ -1,0 +1,5 @@
+ConfirmationID,Vendor,DateConfirmed,Balance,ReferenceID,Status,Notes
+VC1000,OfficeMax,2024-08-25,4087.68,REF-5583,Disputed,Pending follow-up.
+VC1001,Tech Solutions Inc.,2024-06-05,5894.87,REF-7527,Pending,Pending follow-up.
+VC1002,Stationery Supplies,2024-10-26,3176.54,REF-9173,Pending,Pending follow-up.
+VC1003,Fleet Rentals,2024-04-22,1850.51,REF-5009,Disputed,Pending follow-up.

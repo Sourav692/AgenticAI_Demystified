@@ -1,0 +1,51 @@
+ReceiptID,Date,Payee,Amount,PaymentMethod,Description,ReferenceID,Status
+REC1000,2024-02-03,"Davenport, White and Myers",142.76,Cash,"Receipt for payment received from Davenport, White and Myers.",REF-4955,Pending
+REC1001,2024-04-08,"Welch, Jones and Miller",89.56,Credit Card,"Receipt for payment received from Welch, Jones and Miller.",REF-6250,Pending
+REC1002,2024-02-22,Fuller Group,329.13,Cash,Receipt for payment received from Fuller Group.,REF-3087,Cancelled
+REC1003,2024-08-23,Hayes LLC,2881.83,Cash,Receipt for payment received from Hayes LLC.,REF-8613,Pending
+REC1004,2024-07-16,Kim Inc,2207.39,Mobile Payment,Receipt for payment received from Kim Inc.,REF-7911,Cancelled
+REC1005,2024-10-31,Becker-Wade,2905.62,Cash,Receipt for payment received from Becker-Wade.,REF-8584,Confirmed
+REC1006,2024-04-09,Blackwell Ltd,2158.65,Cash,Receipt for payment received from Blackwell Ltd.,REF-7255,Cancelled
+REC1007,2024-09-28,"Jackson, Thompson and Thornton",2846.98,Mobile Payment,"Receipt for payment received from Jackson, Thompson and Thornton.",REF-6543,Cancelled
+REC1008,2024-08-07,"Farmer, Frederick and Nicholson",2408.56,Credit Card,"Receipt for payment received from Farmer, Frederick and Nicholson.",REF-0839,Pending
+REC1009,2024-04-18,Hill-Wu,2721.06,Credit Card,Receipt for payment received from Hill-Wu.,REF-8998,Cancelled
+REC1010,2024-06-21,"Alvarez, Anderson and Marquez",1797.51,Cash,"Receipt for payment received from Alvarez, Anderson and Marquez.",REF-7141,Pending
+REC1011,2024-06-21,Smith-Williams,1668.6,Bank Transfer,Receipt for payment received from Smith-Williams.,REF-5811,Cancelled
+REC1012,2024-09-14,"Evans, Mcclain and Fischer",1299.17,Cash,"Receipt for payment received from Evans, Mcclain and Fischer.",REF-2889,Confirmed
+REC1013,2024-06-06,"Soto, Neal and Henry",991.23,Mobile Payment,"Receipt for payment received from Soto, Neal and Henry.",REF-6303,Cancelled
+REC1014,2024-08-15,"Evans, Garcia and Hester",1076.33,Cash,"Receipt for payment received from Evans, Garcia and Hester.",REF-3790,Confirmed
+REC1015,2024-05-10,Hanson PLC,1449.83,Mobile Payment,Receipt for payment received from Hanson PLC.,REF-5406,Cancelled
+REC1016,2024-07-24,Arellano-Williams,242.34,Bank Transfer,Receipt for payment received from Arellano-Williams.,REF-6397,Pending
+REC1017,2024-09-08,Martinez-Young,1570.96,Cash,Receipt for payment received from Martinez-Young.,REF-4014,Pending
+REC1018,2024-03-13,Morgan PLC,2451.12,Credit Card,Receipt for payment received from Morgan PLC.,REF-6797,Pending
+REC1019,2024-06-02,Yang and Sons,267.76,Cash,Receipt for payment received from Yang and Sons.,REF-3697,Confirmed
+REC1020,2024-03-27,Patterson and Sons,1097.88,Cash,Receipt for payment received from Patterson and Sons.,REF-6227,Confirmed
+REC1021,2024-07-20,"Rivers, Fitzpatrick and Robinson",2494.16,Cash,"Receipt for payment received from Rivers, Fitzpatrick and Robinson.",REF-4714,Cancelled
+REC1022,2024-07-10,King-Hill,304.96,Mobile Payment,Receipt for payment received from King-Hill.,REF-4588,Pending
+REC1023,2024-11-01,"Jacobson, Hall and Briggs",1895.53,Cash,"Receipt for payment received from Jacobson, Hall and Briggs.",REF-0393,Pending
+REC1024,2024-01-16,Nixon-Huynh,1060.8,Bank Transfer,Receipt for payment received from Nixon-Huynh.,REF-7928,Confirmed
+REC1025,2024-08-12,Perez-Flynn,2973.08,Cash,Receipt for payment received from Perez-Flynn.,REF-7519,Pending
+REC1026,2024-09-17,"Hendricks, Simmons and Schwartz",2047.16,Mobile Payment,"Receipt for payment received from Hendricks, Simmons and Schwartz.",REF-6474,Confirmed
+REC1027,2024-08-25,Swanson Inc,2719.92,Bank Transfer,Receipt for payment received from Swanson Inc.,REF-2790,Confirmed
+REC1028,2024-05-25,Davidson PLC,1596.22,Mobile Payment,Receipt for payment received from Davidson PLC.,REF-1985,Pending
+REC1029,2024-01-05,Mccarthy Ltd,72.03,Cash,Receipt for payment received from Mccarthy Ltd.,REF-5517,Cancelled
+REC1030,2024-08-26,"Richmond, Rogers and Everett",2727.98,Mobile Payment,"Receipt for payment received from Richmond, Rogers and Everett.",REF-9190,Cancelled
+REC1031,2024-09-11,Peterson LLC,1116.2,Bank Transfer,Receipt for payment received from Peterson LLC.,REF-8713,Cancelled
+REC1032,2024-09-18,Scott Inc,1629.21,Cash,Receipt for payment received from Scott Inc.,REF-7095,Pending
+REC1033,2024-06-20,Wheeler LLC,79.68,Bank Transfer,Receipt for payment received from Wheeler LLC.,REF-0738,Confirmed
+REC1034,2024-08-09,"Brady, Matthews and Morris",1051.15,Credit Card,"Receipt for payment received from Brady, Matthews and Morris.",REF-9700,Pending
+REC1035,2024-05-23,"Butler, Benton and Warren",2425.13,Bank Transfer,"Receipt for payment received from Butler, Benton and Warren.",REF-5649,Confirmed
+REC1036,2024-08-27,"Freeman, Sherman and Jones",197.95,Mobile Payment,"Receipt for payment received from Freeman, Sherman and Jones.",REF-3335,Cancelled
+REC1037,2024-10-10,"Garcia, Burke and Velasquez",563.98,Bank Transfer,"Receipt for payment received from Garcia, Burke and Velasquez.",REF-4358,Pending
+REC1038,2024-01-28,"Gregory, Swanson and Russell",2335.01,Cash,"Receipt for payment received from Gregory, Swanson and Russell.",REF-9926,Cancelled
+REC1039,2024-01-05,"Miller, Pittman and Gonzalez",413.44,Cash,"Receipt for payment received from Miller, Pittman and Gonzalez.",REF-3792,Pending
+REC1040,2024-09-17,Stanton LLC,2882.37,Bank Transfer,Receipt for payment received from Stanton LLC.,REF-3517,Confirmed
+REC1041,2024-03-07,Nelson-Webb,2644.53,Bank Transfer,Receipt for payment received from Nelson-Webb.,REF-1699,Cancelled
+REC1042,2024-10-05,"Norris, Horn and Steele",2938.32,Cash,"Receipt for payment received from Norris, Horn and Steele.",REF-3168,Cancelled
+REC1043,2024-03-31,Lewis-Terrell,2864.72,Mobile Payment,Receipt for payment received from Lewis-Terrell.,REF-3469,Cancelled
+REC1044,2024-03-28,"Smith, Moreno and Jackson",1429.43,Bank Transfer,"Receipt for payment received from Smith, Moreno and Jackson.",REF-0048,Pending
+REC1045,2024-06-14,Bell PLC,377.55,Credit Card,Receipt for payment received from Bell PLC.,REF-1406,Cancelled
+REC1046,2024-07-21,Benson-Peterson,395.87,Credit Card,Receipt for payment received from Benson-Peterson.,REF-1341,Confirmed
+REC1047,2024-06-29,"Wood, Pace and Hall",1212.76,Cash,"Receipt for payment received from Wood, Pace and Hall.",REF-0861,Cancelled
+REC1048,2024-03-27,Espinoza-Adams,1826.35,Cash,Receipt for payment received from Espinoza-Adams.,REF-9405,Confirmed
+REC1049,2024-08-29,Newman Ltd,1529.24,Cash,Receipt for payment received from Newman Ltd.,REF-4783,Confirmed

@@ -1,0 +1,51 @@
+StatementID,Date,Category,Subcategory,Amount,Type,TransactionID
+CF1000,2024-03-27,Office Supplies,Audit,795.79,Operating,T1000
+CF1001,2024-07-05,Office Supplies,Subscription,4903.75,Operating,T1001
+CF1002,2024-06-17,Consulting,Customer Payment,2676.22,Operating,T1002
+CF1003,2024-10-30,Consulting,Flight,2431.21,Operating,T1003
+CF1004,2024-04-09,Office Supplies,Stationery,3304.05,Operating,T1004
+CF1005,2024-09-16,Client Payments,Stationery,4162.89,Operating,T1005
+CF1007,2024-03-29,Consulting,Stationery,4051.06,Operating,T1007
+CF1013,2024-09-03,Client Payments,Subscription,3890.51,Operating,T1013
+CF1016,2024-08-12,Office Supplies,Customer Payment,1278.49,Operating,T1016
+CF1018,2024-05-18,Consulting,Stationery,3067.91,Operating,T1018
+CF1021,2024-10-21,Client Payments,Audit,4434.04,Operating,T1021
+CF1022,2024-02-27,Consulting,Stationery,799.81,Operating,T1022
+CF1023,2024-05-22,Consulting,Audit,3357.0,Operating,T1023
+CF1024,2024-02-25,Office Supplies,Subscription,853.52,Operating,T1024
+CF1025,2024-05-21,Office Supplies,Flight,1979.45,Operating,T1025
+CF1026,2024-03-02,Consulting,Stationery,1865.83,Operating,T1026
+CF1027,2024-06-06,Client Payments,Audit,2565.44,Operating,T1027
+CF1029,2024-10-20,Office Supplies,Subscription,3872.29,Operating,T1029
+CF1030,2024-07-23,Consulting,Subscription,1170.11,Operating,T1030
+CF1034,2024-09-05,Client Payments,Audit,4348.2,Operating,T1034
+CF1035,2024-09-26,Client Payments,Audit,2564.55,Operating,T1035
+CF1036,2024-04-18,Client Payments,Flight,1351.01,Operating,T1036
+CF1038,2024-04-09,Client Payments,Customer Payment,3341.14,Operating,T1038
+CF1041,2024-09-25,Consulting,Audit,4308.13,Operating,T1041
+CF1042,2024-08-01,Client Payments,Stationery,2944.5,Operating,T1042
+CF1044,2024-04-24,Consulting,Audit,1066.78,Operating,T1044
+CF1046,2024-02-24,Consulting,Stationery,1380.75,Operating,T1046
+CF1047,2024-09-29,Office Supplies,Audit,1772.78,Operating,T1047
+CF1049,2024-06-29,Office Supplies,Subscription,2672.31,Operating,T1049
+CF1006,2024-07-14,Software,Flight,4805.97,Investing,T1006
+CF1008,2024-10-17,Travel,Customer Payment,2153.56,Investing,T1008
+CF1009,2024-08-21,Software,Subscription,2327.44,Investing,T1009
+CF1010,2024-08-10,Travel,Customer Payment,1375.81,Investing,T1010
+CF1011,2024-05-11,Software,Stationery,3541.64,Investing,T1011
+CF1012,2024-10-31,Travel,Flight,2645.08,Investing,T1012
+CF1014,2024-01-02,Software,Customer Payment,2238.77,Investing,T1014
+CF1015,2024-11-01,Software,Audit,4795.56,Investing,T1015
+CF1017,2024-03-16,Travel,Customer Payment,3821.62,Investing,T1017
+CF1019,2024-03-31,Software,Stationery,765.95,Investing,T1019
+CF1020,2024-04-26,Software,Subscription,108.77,Investing,T1020
+CF1028,2024-10-21,Travel,Audit,1726.16,Investing,T1028
+CF1031,2024-01-30,Software,Audit,1979.71,Investing,T1031
+CF1032,2024-07-23,Travel,Audit,1382.49,Investing,T1032
+CF1033,2024-03-10,Travel,Subscription,4430.87,Investing,T1033
+CF1037,2024-05-15,Software,Customer Payment,3415.87,Investing,T1037
+CF1039,2024-09-16,Travel,Subscription,2843.32,Investing,T1039
+CF1040,2024-08-12,Travel,Customer Payment,2964.01,Investing,T1040
+CF1043,2024-03-26,Travel,Flight,4316.1,Investing,T1043
+CF1045,2024-04-16,Travel,Customer Payment,3150.57,Investing,T1045
+CF1048,2024-01-04,Software,Flight,4740.54,Investing,T1048

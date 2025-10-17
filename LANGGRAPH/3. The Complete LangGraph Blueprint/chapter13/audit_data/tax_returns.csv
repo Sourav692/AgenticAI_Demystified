@@ -1,0 +1,51 @@
+ReturnID,TaxYear,FilingDate,TaxType,TaxableIncome,TaxPaid,Status,DueDate,FilingMethod,ReferenceID,Notes
+TAX1000,2021,2021-03-17,Withholding Tax,631972.57,113079.26,Filed,2021-12-09,Electronic,REF-1216,Withholding Tax for fiscal year 2021
+TAX1001,2023,2023-01-02,Payroll Tax,523354.38,90403.49,Filed,2023-12-27,Paper,REF-2550,Payroll Tax for fiscal year 2023
+TAX1002,2022,2022-10-28,Corporate Income Tax,881040.54,217882.34,Overdue,2022-12-04,Paper,REF-8704,Corporate Income Tax for fiscal year 2022
+TAX1003,2024,2024-07-13,Withholding Tax,837817.94,199824.56,Pending,2024-12-17,Electronic,REF-3165,Withholding Tax for fiscal year 2024
+TAX1004,2024,2024-03-12,Corporate Income Tax,430682.87,43374.45,Overdue,2024-12-07,Electronic,REF-2898,Corporate Income Tax for fiscal year 2024
+TAX1005,2023,2023-03-28,Corporate Income Tax,355844.76,79309.35,Overdue,2023-12-30,Paper,REF-3778,Corporate Income Tax for fiscal year 2023
+TAX1006,2023,2023-08-24,Corporate Income Tax,825202.54,138078.09,Filed,2023-12-23,Electronic,REF-9281,Corporate Income Tax for fiscal year 2023
+TAX1007,2023,2023-01-06,Withholding Tax,638460.76,123846.8,Pending,2023-12-06,Electronic,REF-7060,Withholding Tax for fiscal year 2023
+TAX1008,2022,2022-03-06,Payroll Tax,218779.41,34521.17,Filed,2022-12-01,Paper,REF-1191,Payroll Tax for fiscal year 2022
+TAX1009,2023,2023-04-11,Withholding Tax,486011.96,88498.36,Filed,2023-12-30,Paper,REF-7950,Withholding Tax for fiscal year 2023
+TAX1010,2023,2023-05-30,Payroll Tax,391677.74,41455.61,Filed,2023-12-30,Paper,REF-1198,Payroll Tax for fiscal year 2023
+TAX1011,2024,2024-12-14,Corporate Income Tax,561539.57,131573.18,Pending,2024-12-11,Electronic,REF-4547,Corporate Income Tax for fiscal year 2024
+TAX1012,2023,2023-03-24,Payroll Tax,719007.85,102461.09,Overdue,2023-12-24,Electronic,REF-5318,Payroll Tax for fiscal year 2023
+TAX1013,2021,2021-11-24,Value Added Tax (VAT),766995.26,99437.63,Pending,2021-12-06,Electronic,REF-8443,Value Added Tax (VAT) for fiscal year 2021
+TAX1014,2021,2021-07-02,Withholding Tax,726346.65,122601.69,Filed,2021-12-14,Electronic,REF-4354,Withholding Tax for fiscal year 2021
+TAX1015,2021,2021-12-05,Payroll Tax,822495.81,181465.38,Pending,2021-12-01,Electronic,REF-9935,Payroll Tax for fiscal year 2021
+TAX1016,2022,2022-02-17,Corporate Income Tax,133248.5,31102.15,Overdue,2022-12-21,Electronic,REF-1621,Corporate Income Tax for fiscal year 2022
+TAX1017,2022,2022-10-31,Withholding Tax,673798.58,145904.11,Filed,2022-12-04,Paper,REF-5867,Withholding Tax for fiscal year 2022
+TAX1018,2024,2024-04-25,Value Added Tax (VAT),145756.92,24435.7,Overdue,2024-12-29,Paper,REF-0095,Value Added Tax (VAT) for fiscal year 2024
+TAX1019,2024,2024-04-02,Value Added Tax (VAT),758893.67,108360.65,Overdue,2024-12-18,Electronic,REF-1439,Value Added Tax (VAT) for fiscal year 2024
+TAX1020,2023,2023-10-26,Withholding Tax,861763.23,218509.55,Overdue,2023-12-01,Electronic,REF-8392,Withholding Tax for fiscal year 2023
+TAX1021,2022,2022-03-16,Corporate Income Tax,527523.74,115671.61,Pending,2022-12-14,Paper,REF-6702,Corporate Income Tax for fiscal year 2022
+TAX1022,2024,2024-11-28,Payroll Tax,908777.09,188843.66,Pending,2024-12-19,Electronic,REF-9033,Payroll Tax for fiscal year 2024
+TAX1023,2022,2022-09-15,Payroll Tax,556585.19,72214.26,Pending,2022-12-24,Electronic,REF-7224,Payroll Tax for fiscal year 2022
+TAX1024,2021,2021-03-10,Payroll Tax,260476.47,70391.82,Filed,2021-12-11,Electronic,REF-6128,Payroll Tax for fiscal year 2021
+TAX1025,2023,2023-04-24,Corporate Income Tax,209224.42,32620.39,Overdue,2023-12-21,Electronic,REF-9507,Corporate Income Tax for fiscal year 2023
+TAX1026,2023,2023-09-22,Payroll Tax,585622.03,110639.5,Filed,2023-12-14,Electronic,REF-0916,Payroll Tax for fiscal year 2023
+TAX1027,2021,2021-06-29,Corporate Income Tax,593799.25,94680.78,Filed,2021-12-26,Paper,REF-2124,Corporate Income Tax for fiscal year 2021
+TAX1028,2022,2022-09-22,Value Added Tax (VAT),644293.15,120158.95,Overdue,2022-12-16,Electronic,REF-2833,Value Added Tax (VAT) for fiscal year 2022
+TAX1029,2023,2023-11-27,Withholding Tax,568115.35,86272.92,Overdue,2023-12-06,Electronic,REF-1519,Withholding Tax for fiscal year 2023
+TAX1030,2023,2023-08-09,Payroll Tax,789119.67,164610.78,Pending,2023-12-07,Paper,REF-5334,Payroll Tax for fiscal year 2023
+TAX1031,2024,2024-05-31,Payroll Tax,940184.82,111168.09,Pending,2024-12-25,Paper,REF-9889,Payroll Tax for fiscal year 2024
+TAX1032,2022,2022-08-17,Value Added Tax (VAT),141754.78,14337.99,Pending,2022-12-19,Electronic,REF-4491,Value Added Tax (VAT) for fiscal year 2022
+TAX1033,2023,2023-05-30,Payroll Tax,67634.37,13911.4,Overdue,2023-12-25,Paper,REF-6937,Payroll Tax for fiscal year 2023
+TAX1034,2022,2022-04-16,Corporate Income Tax,171750.44,45200.77,Overdue,2022-12-08,Electronic,REF-5189,Corporate Income Tax for fiscal year 2022
+TAX1035,2024,2024-03-06,Corporate Income Tax,377499.46,91181.45,Overdue,2024-12-02,Electronic,REF-5993,Corporate Income Tax for fiscal year 2024
+TAX1036,2023,2023-06-09,Withholding Tax,617106.6,83865.77,Filed,2023-12-13,Paper,REF-6354,Withholding Tax for fiscal year 2023
+TAX1037,2023,2023-01-02,Payroll Tax,551605.67,89303.51,Pending,2023-12-14,Electronic,REF-0478,Payroll Tax for fiscal year 2023
+TAX1038,2021,2021-02-27,Value Added Tax (VAT),131558.18,37761.95,Overdue,2021-12-21,Paper,REF-6395,Value Added Tax (VAT) for fiscal year 2021
+TAX1039,2023,2023-07-16,Corporate Income Tax,220000.48,52229.77,Filed,2023-12-22,Electronic,REF-1134,Corporate Income Tax for fiscal year 2023
+TAX1040,2022,2022-01-18,Value Added Tax (VAT),649041.4,103373.16,Overdue,2022-12-08,Paper,REF-4268,Value Added Tax (VAT) for fiscal year 2022
+TAX1041,2022,2022-07-22,Corporate Income Tax,245477.7,32685.32,Pending,2022-12-20,Paper,REF-9625,Corporate Income Tax for fiscal year 2022
+TAX1042,2023,2023-08-25,Withholding Tax,212946.17,35700.4,Pending,2023-12-15,Paper,REF-1873,Withholding Tax for fiscal year 2023
+TAX1043,2023,2023-09-30,Payroll Tax,497320.16,100382.57,Overdue,2023-12-05,Electronic,REF-3790,Payroll Tax for fiscal year 2023
+TAX1044,2023,2023-12-11,Value Added Tax (VAT),923937.21,119049.37,Overdue,2023-12-20,Electronic,REF-1048,Value Added Tax (VAT) for fiscal year 2023
+TAX1045,2023,2023-07-26,Payroll Tax,338692.94,73974.4,Filed,2023-12-28,Electronic,REF-8598,Payroll Tax for fiscal year 2023
+TAX1046,2023,2023-12-04,Payroll Tax,458464.02,64095.92,Filed,2023-12-01,Paper,REF-1547,Payroll Tax for fiscal year 2023
+TAX1047,2024,2024-08-28,Corporate Income Tax,291870.25,44741.77,Overdue,2024-12-05,Paper,REF-4024,Corporate Income Tax for fiscal year 2024
+TAX1048,2022,2022-06-15,Corporate Income Tax,478484.82,118621.18,Filed,2022-12-11,Paper,REF-5718,Corporate Income Tax for fiscal year 2022
+TAX1049,2024,2024-07-19,Withholding Tax,162984.94,16902.85,Filed,2024-12-01,Electronic,REF-9523,Withholding Tax for fiscal year 2024

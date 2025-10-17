@@ -1,0 +1,242 @@
+[
+  {
+    "text": "Question: How can I view my healthcare billing statement online? Answer: You can view your billing statement by logging into your patient portal and selecting 'Billing Statements'.",
+    "metadata": {
+      "category": "billing"
+    }
+  },
+  {
+    "text": "Question: What payment methods are accepted for medical bills? Answer: We accept credit cards, bank transfers, and insurance payments for settling your medical bills.",
+    "metadata": {
+      "category": "billing"
+    }
+  },
+  {
+    "text": "Question: Can I get a detailed invoice for my medical services? Answer: Yes, a detailed invoice is available in your patient portal under the billing section.",
+    "metadata": {
+      "category": "billing"
+    }
+  },
+  {
+    "text": "Question: Is there a discount for upfront payment of my medical bill? Answer: Some facilities offer discounts for upfront payments; please contact our billing department for details.",
+    "metadata": {
+      "category": "billing"
+    }
+  },
+  {
+    "text": "Question: How do I update my billing information on my healthcare account? Answer: You can update your billing details through your online patient portal in the account settings.",
+    "metadata": {
+      "category": "billing"
+    }
+  },
+  {
+    "text": "Question: Are there any additional fees for medical billing services? Answer: All fees are clearly outlined in your billing statement; review your invoice for any extra charges.",
+    "metadata": {
+      "category": "billing"
+    }
+  },
+  {
+    "text": "Question: How are taxes applied to my medical bills? Answer: Taxes, if applicable, are calculated based on local regulations and included in your final billing amount.",
+    "metadata": {
+      "category": "billing"
+    }
+  },
+  {
+    "text": "Question: Can I receive a consolidated bill for multiple healthcare services? Answer: Yes, we offer consolidated billing for patients receiving multiple services. Contact billing support for more details.",
+    "metadata": {
+      "category": "billing"
+    }
+  },
+  {
+    "text": "Question: What is the process for disputing a charge on my medical bill? Answer: You can dispute any charges by contacting our billing department and submitting a formal inquiry.",
+    "metadata": {
+      "category": "billing"
+    }
+  },
+  {
+    "text": "Question: Will my insurance cover my billing charges? Answer: Insurance coverage varies by plan; please consult your provider or our billing team for specifics.",
+    "metadata": {
+      "category": "billing"
+    }
+  },
+  {
+    "text": "Question: How do I schedule a medical appointment online? Answer: You can schedule an appointment through our patient portal by selecting your preferred date and healthcare provider.",
+    "metadata": {
+      "category": "appointments"
+    }
+  },
+  {
+    "text": "Question: Can I reschedule or cancel my appointment online? Answer: Yes, you can easily reschedule or cancel your appointment via your patient portal.",
+    "metadata": {
+      "category": "appointments"
+    }
+  },
+  {
+    "text": "Question: What doctors are available for appointments? Answer: The following doctors are available five days of the week: Dr. Smith (Cardiology), Dr. Johnson (Dermatology), Dr. Lee (Pediatrics), Dr. Patel (Orthopedics), and Dr. Garcia (Neurology). For more details check the appointment section in your portal.",
+    "metadata": {
+      "category": "appointments"
+    }
+  },
+  {
+    "text": "Question: How do I book a telehealth consultation? Answer: Telehealth appointments can be scheduled by selecting the 'Virtual Visit' option when booking your appointment online.",
+    "metadata": {
+      "category": "appointments"
+    }
+  },
+  {
+    "text": "Question: Is same-day appointment scheduling available? Answer: In many cases, same-day appointments are available. For urgent needs, please contact our scheduling department.",
+    "metadata": {
+      "category": "appointments"
+    }
+  },
+  {
+    "text": "Question: How do I find out which doctors are available for my appointment? Answer: Doctor availability is listed on our appointment portal; you can filter by specialty and location.",
+    "metadata": {
+      "category": "appointments"
+    }
+  },
+  {
+    "text": "Question: Can I receive reminders for my upcoming appointments? Answer: Yes, appointment reminders are sent via email and SMS based on your notification preferences.",
+    "metadata": {
+      "category": "appointments"
+    }
+  },
+  {
+    "text": "Question: How should I prepare for my appointment? Answer: Please review your appointment confirmation email for any pre-visit instructions and bring any necessary documents.",
+    "metadata": {
+      "category": "appointments"
+    }
+  },
+  {
+    "text": "Question: What should I do if I miss my appointment? Answer: If you miss an appointment, contact our scheduling department as soon as possible to reschedule.",
+    "metadata": {
+      "category": "appointments"
+    }
+  },
+  {
+    "text": "Question: Can I request a specific time slot for my appointment? Answer: Yes, you may request a specific time when booking, subject to availability.",
+    "metadata": {
+      "category": "appointments"
+    }
+  },
+  {
+    "text": "Question: How can I access my medical records online? Answer: You can access your medical records through our secure patient portal using your login credentials.",
+    "metadata": {
+      "category": "medical_records"
+    }
+  },
+  {
+    "text": "Question: Can I request a copy of my medical history? Answer: Yes, you can request a copy of your medical history through the patient portal or by contacting our records department.",
+    "metadata": {
+      "category": "medical_records"
+    }
+  },
+  {
+    "text": "Question: How do I update my personal information in my medical records? Answer: Update your personal details by logging into your patient portal and editing your profile information.",
+    "metadata": {
+      "category": "medical_records"
+    }
+  },
+  {
+    "text": "Question: What measures are in place to protect my medical records? Answer: Our system complies with HIPAA regulations to ensure your records are securely stored and transmitted.",
+    "metadata": {
+      "category": "medical_records"
+    }
+  },
+  {
+    "text": "Question: How long does it take to process a medical records request? Answer: Processing times typically range from 5 to 10 business days, depending on the request.",
+    "metadata": {
+      "category": "medical_records"
+    }
+  },
+  {
+    "text": "Question: Can I authorize someone else to access my medical records? Answer: Yes, you can grant access to a trusted family member or representative via our authorization process.",
+    "metadata": {
+      "category": "medical_records"
+    }
+  },
+  {
+    "text": "Question: Is there a fee for obtaining my medical records? Answer: Fees may apply for extensive record requests; please refer to our fee schedule on the records department page.",
+    "metadata": {
+      "category": "medical_records"
+    }
+  },
+  {
+    "text": "Question: How can I ensure my medical records are up-to-date? Answer: Regular visits and communication with your healthcare provider help ensure your records are current.",
+    "metadata": {
+      "category": "medical_records"
+    }
+  },
+  {
+    "text": "Question: What should I do if I find an error in my medical records? Answer: If you notice any inaccuracies, please contact our records department immediately for corrections.",
+    "metadata": {
+      "category": "medical_records"
+    }
+  },
+  {
+    "text": "Question: How are my medical records shared with other healthcare providers? Answer: Records are shared securely with authorized providers in compliance with HIPAA guidelines.",
+    "metadata": {
+      "category": "medical_records"
+    }
+  },
+  {
+    "text": "Question: How do I verify my insurance coverage online? Answer: Verify your insurance details by logging into our patient portal and accessing the insurance section.",
+    "metadata": {
+      "category": "insurance"
+    }
+  },
+  {
+    "text": "Question: Can I add a new insurance policy to my account? Answer: Yes, you can update your insurance information through the insurance settings in your patient portal.",
+    "metadata": {
+      "category": "insurance"
+    }
+  },
+  {
+    "text": "Question: What types of insurance are accepted at your facility? Answer: We accept a wide range of insurance providers, including private and government-sponsored plans.",
+    "metadata": {
+      "category": "insurance"
+    }
+  },
+  {
+    "text": "Question: How do I file an insurance claim for my medical services? Answer: Insurance claims can be filed online through our patient portal or by contacting our billing department for assistance.",
+    "metadata": {
+      "category": "insurance"
+    }
+  },
+  {
+    "text": "Question: What is the process for pre-authorization with my insurance? Answer: Pre-authorization requirements vary by provider; please consult your insurance plan details or contact our support team.",
+    "metadata": {
+      "category": "insurance"
+    }
+  },
+  {
+    "text": "Question: Are there any co-payments required at the time of service? Answer: Co-payments depend on your insurance plan; please check with your provider or review your plan details online.",
+    "metadata": {
+      "category": "insurance"
+    }
+  },
+  {
+    "text": "Question: Can I get help understanding my insurance benefits? Answer: Yes, our patient support team can help explain your insurance benefits and answer any related queries.",
+    "metadata": {
+      "category": "insurance"
+    }
+  },
+  {
+    "text": "Question: What should I do if my insurance claim is denied? Answer: If a claim is denied, please contact our insurance support department to review the issue and resubmit your claim if needed.",
+    "metadata": {
+      "category": "insurance"
+    }
+  },
+  {
+    "text": "Question: How are changes in insurance policies communicated to patients? Answer: Any changes are updated in your patient portal and communicated through email notifications.",
+    "metadata": {
+      "category": "insurance"
+    }
+  },
+  {
+    "text": "Question: Is my insurance information kept confidential? Answer: Yes, all insurance information is handled in strict compliance with HIPAA regulations to ensure your privacy.",
+    "metadata": {
+      "category": "insurance"
+    }
+  }
+]

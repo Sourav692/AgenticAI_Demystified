@@ -1,0 +1,51 @@
+AssetInvoiceID,Date,Vendor,AssetID,Amount,DepreciationMethod,ReferenceID,Description
+API1000,2024-07-03,Tech Solutions Inc.,FA1000,22602.06,Straight-line,REF-6773,Purchase of Office Equipment 1 from Tech Solutions Inc..
+API1001,2022-09-04,Tech Solutions Inc.,FA1001,14538.48,Declining Balance,REF-9471,Purchase of Vehicles 2 from Tech Solutions Inc..
+API1002,2022-10-05,Industrial Goods,FA1002,8181.81,Straight-line,REF-7972,Purchase of Machinery 3 from Industrial Goods.
+API1003,2022-02-21,Tech Solutions Inc.,FA1003,29957.7,Straight-line,REF-0727,Purchase of Machinery 4 from Tech Solutions Inc..
+API1004,2024-01-22,Industrial Goods,FA1004,24473.12,Straight-line,REF-4383,Purchase of Office Equipment 5 from Industrial Goods.
+API1005,2021-04-20,OfficeMax,FA1005,30444.52,Units of Production,REF-8997,Purchase of Furniture 6 from OfficeMax.
+API1006,2021-07-16,Industrial Goods,FA1006,18804.06,Straight-line,REF-8490,Purchase of Vehicles 7 from Industrial Goods.
+API1007,2019-11-08,Industrial Goods,FA1007,19357.9,Units of Production,REF-1212,Purchase of Machinery 8 from Industrial Goods.
+API1008,2023-09-27,Furniture World,FA1008,11927.95,Declining Balance,REF-6588,Purchase of Furniture 9 from Furniture World.
+API1009,2022-09-17,Industrial Goods,FA1009,6595.1,Straight-line,REF-5089,Purchase of Office Equipment 10 from Industrial Goods.
+API1010,2024-02-28,Industrial Goods,FA1010,10117.98,Straight-line,REF-6527,Purchase of Computers 11 from Industrial Goods.
+API1011,2021-07-30,Tech Solutions Inc.,FA1011,32646.86,Declining Balance,REF-6037,Purchase of Office Equipment 12 from Tech Solutions Inc..
+API1012,2023-04-11,Tech Solutions Inc.,FA1012,41881.33,Declining Balance,REF-7819,Purchase of Office Equipment 13 from Tech Solutions Inc..
+API1013,2020-04-04,Industrial Goods,FA1013,14331.07,Straight-line,REF-7819,Purchase of Office Equipment 14 from Industrial Goods.
+API1014,2021-07-14,OfficeMax,FA1014,45288.05,Straight-line,REF-1454,Purchase of Machinery 15 from OfficeMax.
+API1015,2024-10-04,Tech Solutions Inc.,FA1015,41385.25,Units of Production,REF-5642,Purchase of Office Equipment 16 from Tech Solutions Inc..
+API1016,2022-04-22,Furniture World,FA1016,25716.9,Declining Balance,REF-7966,Purchase of Computers 17 from Furniture World.
+API1017,2023-12-20,Tech Solutions Inc.,FA1017,31504.76,Straight-line,REF-8504,Purchase of Computers 18 from Tech Solutions Inc..
+API1018,2024-07-08,Industrial Goods,FA1018,18196.32,Straight-line,REF-0187,Purchase of Vehicles 19 from Industrial Goods.
+API1019,2024-03-17,OfficeMax,FA1019,35356.96,Straight-line,REF-4591,Purchase of Machinery 20 from OfficeMax.
+API1020,2024-07-08,OfficeMax,FA1020,34472.19,Units of Production,REF-6840,Purchase of Computers 21 from OfficeMax.
+API1021,2024-09-06,Tech Solutions Inc.,FA1021,30220.38,Units of Production,REF-6727,Purchase of Machinery 22 from Tech Solutions Inc..
+API1022,2021-08-13,Furniture World,FA1022,31175.34,Declining Balance,REF-2477,Purchase of Vehicles 23 from Furniture World.
+API1023,2024-08-08,Furniture World,FA1023,42668.86,Straight-line,REF-7029,Purchase of Vehicles 24 from Furniture World.
+API1024,2021-01-12,OfficeMax,FA1024,1820.78,Straight-line,REF-4462,Purchase of Vehicles 25 from OfficeMax.
+API1025,2020-03-14,Tech Solutions Inc.,FA1025,18543.3,Straight-line,REF-2419,Purchase of Computers 26 from Tech Solutions Inc..
+API1026,2020-02-29,OfficeMax,FA1026,22693.97,Declining Balance,REF-3238,Purchase of Office Equipment 27 from OfficeMax.
+API1027,2021-04-13,Tech Solutions Inc.,FA1027,34677.83,Declining Balance,REF-6918,Purchase of Machinery 28 from Tech Solutions Inc..
+API1028,2023-07-01,Tech Solutions Inc.,FA1028,3040.74,Declining Balance,REF-6480,Purchase of Office Equipment 29 from Tech Solutions Inc..
+API1029,2024-02-04,Furniture World,FA1029,38679.23,Declining Balance,REF-7165,Purchase of Computers 30 from Furniture World.
+API1030,2020-10-25,Furniture World,FA1030,2583.37,Straight-line,REF-3925,Purchase of Computers 31 from Furniture World.
+API1031,2020-02-11,OfficeMax,FA1031,38607.84,Units of Production,REF-2089,Purchase of Office Equipment 32 from OfficeMax.
+API1032,2022-11-01,Tech Solutions Inc.,FA1032,33246.08,Declining Balance,REF-9630,Purchase of Vehicles 33 from Tech Solutions Inc..
+API1033,2021-02-13,OfficeMax,FA1033,41792.21,Units of Production,REF-2247,Purchase of Office Equipment 34 from OfficeMax.
+API1034,2023-03-14,Industrial Goods,FA1034,25244.54,Straight-line,REF-0843,Purchase of Computers 35 from Industrial Goods.
+API1035,2020-03-17,Furniture World,FA1035,10981.97,Declining Balance,REF-8442,Purchase of Computers 36 from Furniture World.
+API1036,2022-09-30,Tech Solutions Inc.,FA1036,7389.81,Units of Production,REF-4334,Purchase of Computers 37 from Tech Solutions Inc..
+API1037,2020-02-15,OfficeMax,FA1037,42425.63,Straight-line,REF-3194,Purchase of Office Equipment 38 from OfficeMax.
+API1038,2020-06-05,Furniture World,FA1038,4434.79,Straight-line,REF-8671,Purchase of Vehicles 39 from Furniture World.
+API1039,2023-09-18,OfficeMax,FA1039,47604.81,Straight-line,REF-8237,Purchase of Furniture 40 from OfficeMax.
+API1040,2020-02-28,Tech Solutions Inc.,FA1040,42706.91,Units of Production,REF-0681,Purchase of Office Equipment 41 from Tech Solutions Inc..
+API1041,2020-10-18,Furniture World,FA1041,24332.54,Units of Production,REF-7179,Purchase of Office Equipment 42 from Furniture World.
+API1042,2023-06-07,Furniture World,FA1042,5871.74,Straight-line,REF-3035,Purchase of Machinery 43 from Furniture World.
+API1043,2023-11-20,Furniture World,FA1043,31723.27,Straight-line,REF-5666,Purchase of Furniture 44 from Furniture World.
+API1044,2022-02-27,OfficeMax,FA1044,21040.75,Units of Production,REF-3235,Purchase of Machinery 45 from OfficeMax.
+API1045,2020-06-01,Tech Solutions Inc.,FA1045,40454.16,Declining Balance,REF-7970,Purchase of Computers 46 from Tech Solutions Inc..
+API1046,2024-08-01,Furniture World,FA1046,49079.18,Straight-line,REF-3786,Purchase of Furniture 47 from Furniture World.
+API1047,2022-06-02,Industrial Goods,FA1047,11531.79,Units of Production,REF-7000,Purchase of Office Equipment 48 from Industrial Goods.
+API1048,2020-02-21,OfficeMax,FA1048,43377.65,Declining Balance,REF-6904,Purchase of Machinery 49 from OfficeMax.
+API1049,2023-10-11,OfficeMax,FA1049,1525.82,Declining Balance,REF-3617,Purchase of Vehicles 50 from OfficeMax.

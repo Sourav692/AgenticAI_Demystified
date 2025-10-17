@@ -1,0 +1,51 @@
+ScheduleID,AssetID,DepreciationMethod,PurchaseDate,DepreciationRate,UsefulLife,AccumulatedDepreciation,NetBookValue,Description
+DS1000,FA1000,Straight-line,2024-07-03,10.53,5,5368.02,17234.04,Depreciation schedule for Office Equipment 1 using Straight-line.
+DS1001,FA1001,Declining Balance,2022-09-04,17.81,3,6313.76,8224.72,Depreciation schedule for Vehicles 2 using Declining Balance.
+DS1002,FA1002,Straight-line,2022-10-05,9.75,10,1922.59,6259.22,Depreciation schedule for Machinery 3 using Straight-line.
+DS1003,FA1003,Straight-line,2022-02-21,6.33,3,12124.28,17833.42,Depreciation schedule for Machinery 4 using Straight-line.
+DS1004,FA1004,Straight-line,2024-01-22,19.27,7,4912.33,19560.79,Depreciation schedule for Office Equipment 5 using Straight-line.
+DS1005,FA1005,Units of Production,2021-04-20,12.4,3,13733.15,16711.37,Depreciation schedule for Furniture 6 using Units of Production.
+DS1006,FA1006,Straight-line,2021-07-16,12.32,10,8159.35,10644.71,Depreciation schedule for Vehicles 7 using Straight-line.
+DS1007,FA1007,Units of Production,2019-11-08,16.32,3,7928.4,11429.5,Depreciation schedule for Machinery 8 using Units of Production.
+DS1008,FA1008,Declining Balance,2023-09-27,6.29,3,5111.77,6816.18,Depreciation schedule for Furniture 9 using Declining Balance.
+DS1009,FA1009,Straight-line,2022-09-17,9.1,5,1882.27,4712.83,Depreciation schedule for Office Equipment 10 using Straight-line.
+DS1010,FA1010,Straight-line,2024-02-28,7.82,5,1413.02,8704.96,Depreciation schedule for Computers 11 using Straight-line.
+DS1011,FA1011,Declining Balance,2021-07-30,6.74,10,3857.8,28789.06,Depreciation schedule for Office Equipment 12 using Declining Balance.
+DS1012,FA1012,Declining Balance,2023-04-11,11.99,3,18387.96,23493.37,Depreciation schedule for Office Equipment 13 using Declining Balance.
+DS1013,FA1013,Straight-line,2020-04-04,16.13,3,3708.16,10622.91,Depreciation schedule for Office Equipment 14 using Straight-line.
+DS1014,FA1014,Straight-line,2021-07-14,5.16,5,20995.18,24292.87,Depreciation schedule for Machinery 15 using Straight-line.
+DS1015,FA1015,Units of Production,2024-10-04,10.14,3,15045.28,26339.97,Depreciation schedule for Office Equipment 16 using Units of Production.
+DS1016,FA1016,Declining Balance,2022-04-22,5.33,5,11855.8,13861.1,Depreciation schedule for Computers 17 using Declining Balance.
+DS1017,FA1017,Straight-line,2023-12-20,14.4,7,3290.5,28214.26,Depreciation schedule for Computers 18 using Straight-line.
+DS1018,FA1018,Straight-line,2024-07-08,5.4,3,6454.26,11742.06,Depreciation schedule for Vehicles 19 using Straight-line.
+DS1019,FA1019,Straight-line,2024-03-17,9.83,7,12099.32,23257.64,Depreciation schedule for Machinery 20 using Straight-line.
+DS1020,FA1020,Units of Production,2024-07-08,6.27,10,11969.16,22503.03,Depreciation schedule for Computers 21 using Units of Production.
+DS1021,FA1021,Units of Production,2024-09-06,12.71,7,10574.95,19645.43,Depreciation schedule for Machinery 22 using Units of Production.
+DS1022,FA1022,Declining Balance,2021-08-13,13.65,5,14497.16,16678.18,Depreciation schedule for Vehicles 23 using Declining Balance.
+DS1023,FA1023,Straight-line,2024-08-08,14.68,7,5175.72,37493.14,Depreciation schedule for Vehicles 24 using Straight-line.
+DS1024,FA1024,Straight-line,2021-01-12,14.04,5,699.13,1121.65,Depreciation schedule for Vehicles 25 using Straight-line.
+DS1025,FA1025,Straight-line,2020-03-14,19.6,3,2987.02,15556.28,Depreciation schedule for Computers 26 using Straight-line.
+DS1026,FA1026,Declining Balance,2020-02-29,18.0,5,9732.9,12961.07,Depreciation schedule for Office Equipment 27 using Declining Balance.
+DS1027,FA1027,Declining Balance,2021-04-13,16.59,7,4370.92,30306.91,Depreciation schedule for Machinery 28 using Declining Balance.
+DS1028,FA1028,Declining Balance,2023-07-01,12.9,3,365.7,2675.04,Depreciation schedule for Office Equipment 29 using Declining Balance.
+DS1029,FA1029,Declining Balance,2024-02-04,18.7,3,7840.59,30838.64,Depreciation schedule for Computers 30 using Declining Balance.
+DS1030,FA1030,Straight-line,2020-10-25,9.89,7,1187.6,1395.77,Depreciation schedule for Computers 31 using Straight-line.
+DS1031,FA1031,Units of Production,2020-02-11,5.08,10,17097.44,21510.4,Depreciation schedule for Office Equipment 32 using Units of Production.
+DS1032,FA1032,Declining Balance,2022-11-01,17.47,10,16005.91,17240.17,Depreciation schedule for Vehicles 33 using Declining Balance.
+DS1033,FA1033,Units of Production,2021-02-13,11.57,5,20532.03,21260.18,Depreciation schedule for Office Equipment 34 using Units of Production.
+DS1034,FA1034,Straight-line,2023-03-14,16.79,3,7922.55,17321.99,Depreciation schedule for Computers 35 using Straight-line.
+DS1035,FA1035,Declining Balance,2020-03-17,9.3,7,1189.7,9792.27,Depreciation schedule for Computers 36 using Declining Balance.
+DS1036,FA1036,Units of Production,2022-09-30,14.27,3,1921.71,5468.1,Depreciation schedule for Computers 37 using Units of Production.
+DS1037,FA1037,Straight-line,2020-02-15,6.67,3,10938.6,31487.03,Depreciation schedule for Office Equipment 38 using Straight-line.
+DS1038,FA1038,Straight-line,2020-06-05,13.44,7,993.85,3440.94,Depreciation schedule for Vehicles 39 using Straight-line.
+DS1039,FA1039,Straight-line,2023-09-18,12.4,3,11748.9,35855.91,Depreciation schedule for Furniture 40 using Straight-line.
+DS1040,FA1040,Units of Production,2020-02-28,13.29,5,16597.69,26109.22,Depreciation schedule for Office Equipment 41 using Units of Production.
+DS1041,FA1041,Units of Production,2020-10-18,19.77,5,10932.2,13400.34,Depreciation schedule for Office Equipment 42 using Units of Production.
+DS1042,FA1042,Straight-line,2023-06-07,15.6,5,1655.03,4216.71,Depreciation schedule for Machinery 43 using Straight-line.
+DS1043,FA1043,Straight-line,2023-11-20,17.8,10,3806.66,27916.61,Depreciation schedule for Furniture 44 using Straight-line.
+DS1044,FA1044,Units of Production,2022-02-27,12.89,10,8341.59,12699.16,Depreciation schedule for Machinery 45 using Units of Production.
+DS1045,FA1045,Declining Balance,2020-06-01,10.1,7,11956.43,28497.73,Depreciation schedule for Computers 46 using Declining Balance.
+DS1046,FA1046,Straight-line,2024-08-01,7.19,3,18629.27,30449.91,Depreciation schedule for Furniture 47 using Straight-line.
+DS1047,FA1047,Units of Production,2022-06-02,15.32,7,5586.47,5945.32,Depreciation schedule for Office Equipment 48 using Units of Production.
+DS1048,FA1048,Declining Balance,2020-02-21,15.44,7,19551.89,23825.76,Depreciation schedule for Machinery 49 using Declining Balance.
+DS1049,FA1049,Declining Balance,2023-10-11,7.86,10,328.14,1197.68,Depreciation schedule for Vehicles 50 using Declining Balance.

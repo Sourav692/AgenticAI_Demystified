@@ -1,0 +1,11 @@
+ReconciliationID,Date,BankAccountID,SystemBalance,BankBalance,Difference,Status,ReferenceID,Notes
+BR1000,2024-01-10,ACC-1234,25432.75,25632.50,199.75,Matched,REF-2341,"Auto-generated for testing purposes."
+BR1001,2024-01-15,ACC-5678,37843.00,37343.00,-500.00,Unmatched,REF-5672,"Auto-generated for testing purposes."
+BR1002,2024-02-05,ACC-9123,40500.00,40350.00,-150.00,Matched,REF-9102,"Auto-generated for testing purposes."
+BR1003,2024-02-20,ACC-3456,15000.25,14950.25,-50.00,Matched,REF-3453,"Auto-generated for testing purposes."
+BR1004,2024-03-10,ACC-7890,18000.00,18100.00,100.00,Pending Review,REF-6789,"Auto-generated for testing purposes."
+BR1005,2024-03-15,ACC-4321,50000.00,49900.00,-100.00,Unmatched,REF-4325,"Auto-generated for testing purposes."
+BR1006,2024-04-05,ACC-8765,23455.75,23455.75,0.00,Matched,REF-8765,"Auto-generated for testing purposes."
+BR1007,2024-04-25,ACC-2234,12000.00,11950.00,-50.00,Pending Review,REF-2234,"Auto-generated for testing purposes."
+BR1008,2024-05-10,ACC-5566,30000.00,30050.00,50.00,Matched,REF-5566,"Auto-generated for testing purposes."
+BR1009,2024-05-20,ACC-9988,40000.50,40000.50,0.00,Matched,REF-9988,"Auto-generated for testing purposes."

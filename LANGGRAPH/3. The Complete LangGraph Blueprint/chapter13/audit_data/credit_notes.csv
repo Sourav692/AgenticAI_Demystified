@@ -1,0 +1,51 @@
+CreditNoteID,Date,Vendor,Amount,ReferenceID,Reason,Status
+CN1000,2024-09-21,OfficeMax,1018.18,REF-3226,Discount Adjustment,Pending
+CN1001,2024-02-23,Tech Solutions Inc.,2909.11,REF-1449,Service Issue,Settled
+CN1002,2024-03-28,Stationery Supplies,1393.41,REF-4097,Overpayment Correction,Issued
+CN1003,2024-02-03,Tech Solutions Inc.,2248.52,REF-4525,Service Issue,Pending
+CN1004,2024-03-05,Tech Solutions Inc.,421.67,REF-8085,Return of Goods,Pending
+CN1005,2024-10-29,Stationery Supplies,1152.18,REF-4837,Overpayment Correction,Pending
+CN1006,2024-01-17,Stationery Supplies,2353.39,REF-9311,Return of Goods,Settled
+CN1007,2024-01-31,OfficeMax,2584.98,REF-9283,Return of Goods,Settled
+CN1008,2024-05-16,Tech Solutions Inc.,2785.97,REF-8541,Discount Adjustment,Issued
+CN1009,2024-09-09,Stationery Supplies,2756.37,REF-1821,Service Issue,Pending
+CN1010,2024-01-10,Stationery Supplies,286.9,REF-4343,Overpayment Correction,Settled
+CN1011,2024-08-02,Tech Solutions Inc.,2510.67,REF-5716,Overpayment Correction,Settled
+CN1012,2024-04-26,Tech Solutions Inc.,577.95,REF-3531,Service Issue,Settled
+CN1013,2024-05-07,OfficeMax,654.46,REF-4906,Discount Adjustment,Settled
+CN1014,2024-04-29,Stationery Supplies,1449.19,REF-4488,Return of Goods,Settled
+CN1015,2024-05-29,Tech Solutions Inc.,2041.06,REF-4600,Service Issue,Issued
+CN1016,2024-09-14,Fleet Rentals,974.97,REF-6691,Return of Goods,Issued
+CN1017,2024-05-22,OfficeMax,966.45,REF-0077,Overpayment Correction,Pending
+CN1018,2024-08-16,Stationery Supplies,650.26,REF-3293,Service Issue,Settled
+CN1019,2024-05-19,Stationery Supplies,2051.14,REF-8520,Discount Adjustment,Issued
+CN1020,2024-10-29,Fleet Rentals,211.33,REF-4237,Service Issue,Pending
+CN1021,2024-07-17,Tech Solutions Inc.,2730.34,REF-4614,Service Issue,Pending
+CN1022,2024-07-01,Fleet Rentals,361.01,REF-6292,Return of Goods,Settled
+CN1023,2024-03-12,Stationery Supplies,1342.6,REF-8808,Overpayment Correction,Settled
+CN1024,2024-08-01,Fleet Rentals,328.96,REF-5832,Return of Goods,Issued
+CN1025,2024-06-12,OfficeMax,896.51,REF-6523,Service Issue,Settled
+CN1026,2024-04-19,Fleet Rentals,1932.81,REF-9001,Return of Goods,Pending
+CN1027,2024-03-30,Stationery Supplies,805.57,REF-5198,Return of Goods,Settled
+CN1028,2024-05-05,OfficeMax,207.98,REF-2520,Service Issue,Pending
+CN1029,2024-03-07,Stationery Supplies,2333.86,REF-4351,Discount Adjustment,Pending
+CN1030,2024-02-25,OfficeMax,2385.92,REF-5031,Discount Adjustment,Pending
+CN1031,2024-02-19,Tech Solutions Inc.,436.92,REF-9552,Overpayment Correction,Issued
+CN1032,2024-01-15,Tech Solutions Inc.,684.86,REF-4148,Overpayment Correction,Settled
+CN1033,2024-09-21,OfficeMax,2258.25,REF-1583,Discount Adjustment,Pending
+CN1034,2024-05-30,Stationery Supplies,682.23,REF-8984,Overpayment Correction,Settled
+CN1035,2024-09-09,Fleet Rentals,1916.88,REF-0000,Overpayment Correction,Pending
+CN1036,2024-06-27,Stationery Supplies,2840.08,REF-3383,Service Issue,Issued
+CN1037,2024-08-20,Fleet Rentals,611.49,REF-0283,Overpayment Correction,Settled
+CN1038,2024-01-05,OfficeMax,317.3,REF-4148,Return of Goods,Settled
+CN1039,2024-08-19,OfficeMax,1065.01,REF-4897,Return of Goods,Issued
+CN1040,2024-02-29,Fleet Rentals,2986.35,REF-6599,Discount Adjustment,Pending
+CN1041,2024-06-21,Tech Solutions Inc.,1695.65,REF-4285,Service Issue,Issued
+CN1042,2024-09-07,OfficeMax,169.7,REF-7574,Overpayment Correction,Settled
+CN1043,2024-04-25,Tech Solutions Inc.,899.77,REF-4149,Return of Goods,Pending
+CN1044,2024-07-27,Stationery Supplies,2435.7,REF-0596,Discount Adjustment,Pending
+CN1045,2024-11-01,Tech Solutions Inc.,1999.86,REF-6481,Service Issue,Pending
+CN1046,2024-04-16,OfficeMax,2298.17,REF-7218,Discount Adjustment,Issued
+CN1047,2024-01-01,OfficeMax,2910.11,REF-3593,Overpayment Correction,Pending
+CN1048,2024-03-14,Stationery Supplies,1418.9,REF-5019,Service Issue,Settled
+CN1049,2024-03-05,Fleet Rentals,813.17,REF-9990,Return of Goods,Settled

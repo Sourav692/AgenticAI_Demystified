@@ -1,0 +1,1 @@
+The system should refuse or redirect queries with:Illegal requests (e.g., falsifying documents, fraudulent bookings).Hate speech, harassment, or explicit threats toward individuals or groups.Offensive, obscene, or otherwise harmful content.Request of information about other guests. You cannot share there names or dates of stay

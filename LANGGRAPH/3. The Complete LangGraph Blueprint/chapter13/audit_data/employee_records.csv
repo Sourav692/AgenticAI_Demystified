@@ -1,0 +1,51 @@
+EmployeeID,Name,Position,HireDate,Salary,Department,EmploymentStatus,PhoneNumber,Email,Supervisor,Notes
+E1000,Andrew Davis,Accountant,2018-12-29,94361.74,HR,Terminated,(283)337-8497x072,arthurdixon@hotmail.com,John Doe,Under review
+E1001,Ellen Perez,Operations Manager,2018-08-20,34017.59,Finance,Terminated,+1-501-132-9410x268,richjohn@hotmail.com,Emily Clark,Under review
+E1002,Alicia Finley,Accountant,2015-12-22,78770.15,HR,Active,(767)898-4755x168,christine74@gmail.com,Michael Johnson,Recently promoted
+E1003,Megan Sutton,IT Manager,2016-04-09,33977.19,Sales,On Leave,336.008.2139x6132,brandi61@gmail.com,Michael Johnson,Under review
+E1004,Dan Goodwin,Accountant,2022-01-08,79262.8,Sales,Terminated,332-918-6414x5676,tamara80@yahoo.com,Jane Smith,Under review
+E1005,Tyler Moore,HR Specialist,2021-07-31,38874.86,IT,On Leave,9136013778,martinpatel@hotmail.com,John Doe,Under review
+E1006,Amanda Roberts,HR Specialist,2017-12-17,58908.58,Operations,Active,001-340-686-7050x556,antoniolambert@brandt-dunlap.info,Emily Clark,Recently promoted
+E1007,Wanda Collins,HR Specialist,2019-10-06,49823.58,Finance,On Leave,+1-989-736-9669,jonathan31@gallegos.info,John Doe,Under review
+E1008,Amber Thompson,Operations Manager,2019-07-01,40044.34,Finance,On Leave,+1-541-928-9037x5550,alisonpotts@webb-luna.com,Alex Turner,Under review
+E1009,Scott Gamble,Operations Manager,2016-01-08,104222.39,Operations,Active,+1-086-400-3413x8515,yburgess@yahoo.com,Michael Johnson,Recently promoted
+E1010,Laura Smith,Accountant,2015-12-04,79823.39,Operations,On Leave,6990102232,ptyler@gmail.com,John Doe,Under review
+E1011,Rhonda Spears,HR Specialist,2024-05-22,83744.12,Finance,On Leave,001-776-192-0301x4628,chernandez@phillips-smith.info,Michael Johnson,Under review
+E1012,Anthony Carson,Accountant,2015-12-21,66452.81,Sales,Terminated,001-960-166-9505x5626,zthomas@gmail.com,Emily Clark,Under review
+E1013,Gary Mccullough,HR Specialist,2017-01-13,50859.71,HR,Terminated,(121)116-0713x77018,kingandrew@yahoo.com,John Doe,Under review
+E1014,Edward Williams,Accountant,2016-11-16,31608.74,Finance,On Leave,(373)715-8034x75992,woodardcharles@kelly.net,Alex Turner,Under review
+E1015,Matthew Walker Jr.,Accountant,2020-03-12,118791.32,IT,Active,(961)043-3151,roweoscar@gmail.com,Jane Smith,Recently promoted
+E1016,Mrs. Karen Hall,Operations Manager,2018-12-29,111451.56,Sales,Active,+1-169-507-5768,josephlee@marsh.com,Jane Smith,Recently promoted
+E1017,Meghan Garcia,Sales Associate,2021-12-05,61624.17,Sales,Active,(159)644-8453x81276,shawluis@baldwin.net,Michael Johnson,Recently promoted
+E1018,Cassandra Lee,Sales Associate,2015-09-11,106808.36,IT,On Leave,001-667-009-0804x28123,ricky76@yahoo.com,John Doe,Under review
+E1019,Jonathan Davis,IT Manager,2021-12-03,80560.53,HR,On Leave,595.569.0352,annamaddox@gmail.com,John Doe,Under review
+E1020,Taylor Holland,HR Specialist,2020-11-26,63778.54,IT,Active,(833)779-6465x920,boydedward@gmail.com,John Doe,Recently promoted
+E1021,Louis Valenzuela,Accountant,2024-06-22,118653.93,Operations,Terminated,575.731.6971,taylorjenna@newton-johnson.org,Emily Clark,Under review
+E1022,Melissa Payne,Sales Associate,2018-01-14,43912.44,HR,On Leave,(285)230-0357x52492,davisvincent@smith-reed.com,Emily Clark,Under review
+E1023,Jeffrey Watson,Operations Manager,2021-08-05,112275.13,IT,Terminated,7989968127,pneal@yahoo.com,John Doe,Under review
+E1024,Mary Mccarthy,IT Manager,2020-09-22,104828.72,IT,On Leave,(500)114-5484,rmiller@gmail.com,Jane Smith,Under review
+E1025,Brent Vang,Operations Manager,2017-06-11,81906.12,Operations,Active,8095921439,shawn53@hotmail.com,Emily Clark,Recently promoted
+E1026,Dr. Jeffrey Horn,Accountant,2022-12-04,115201.88,HR,Active,322-008-6220,omccoy@yahoo.com,John Doe,Recently promoted
+E1027,Regina Martinez,Accountant,2020-06-23,96427.45,Sales,Terminated,001-493-167-1664x48044,claudia39@romero.com,Michael Johnson,Under review
+E1028,Kellie Gregory,Accountant,2015-12-28,71450.09,Operations,Terminated,001-154-570-9383x2987,torresbernard@wyatt.biz,John Doe,Under review
+E1029,James Holmes,IT Manager,2022-08-26,106517.89,IT,On Leave,001-690-093-3721x65063,eric60@carlson.com,Michael Johnson,Under review
+E1030,Lisa Bowers,IT Manager,2017-09-30,89060.6,Finance,Terminated,(312)209-8940x42545,amandarose@gmail.com,Michael Johnson,Under review
+E1031,Zachary Ward,Accountant,2018-08-27,96189.14,Operations,Active,001-029-203-1540,ibush@gmail.com,Jane Smith,Recently promoted
+E1032,Jonathan Young,HR Specialist,2020-08-11,80493.18,IT,Active,+1-870-829-0832,aknapp@johnson.info,Michael Johnson,Recently promoted
+E1033,Cassandra Young,HR Specialist,2016-09-13,38078.76,IT,Terminated,885-638-3710x05911,fredperry@gmail.com,Alex Turner,Under review
+E1034,Jimmy Burns,IT Manager,2022-07-16,99102.7,HR,On Leave,001-346-003-1347x89136,goodamanda@hotmail.com,Michael Johnson,Under review
+E1035,Mary Morrison,Sales Associate,2017-10-07,65736.39,IT,Active,238.310.3707x4569,cmcgrath@ryan.com,John Doe,Recently promoted
+E1036,Debra Anderson,IT Manager,2020-04-26,43399.47,HR,Terminated,639.708.5767,jonathan10@roberts.com,Michael Johnson,Under review
+E1037,Micheal Prince,IT Manager,2022-10-18,115625.27,Finance,On Leave,+1-073-729-5865,charlessolomon@aguilar.com,John Doe,Under review
+E1038,Paul Mendez,Operations Manager,2016-06-05,46177.81,Finance,On Leave,318-762-6635,icook@yahoo.com,Michael Johnson,Under review
+E1039,John Garcia,Sales Associate,2020-05-03,49039.74,Finance,Active,5586017129,desiree62@jones.biz,Jane Smith,Recently promoted
+E1040,Heather James,Accountant,2022-04-13,47542.78,Sales,Terminated,001-662-939-7715x440,williamhill@barrett-jimenez.com,Emily Clark,Under review
+E1041,Dr. Kelly Young DDS,Accountant,2018-06-14,48955.69,IT,On Leave,339-194-4814,frussell@peterson.com,Alex Turner,Under review
+E1042,Jack Beasley,IT Manager,2017-01-07,88562.38,IT,Active,472.533.5571x200,tbenton@bean.com,John Doe,Recently promoted
+E1043,Amanda Brown,HR Specialist,2020-06-20,64019.23,HR,Terminated,5319072780,jessica60@gmail.com,Alex Turner,Under review
+E1044,Krystal Howell,IT Manager,2020-01-22,87959.03,Finance,On Leave,710.531.6620,zfreeman@hotmail.com,Emily Clark,Under review
+E1045,Ashley Serrano,IT Manager,2018-05-20,80428.45,Finance,On Leave,(215)091-0740,dunnsamuel@yahoo.com,John Doe,Under review
+E1046,Crystal Riley,HR Specialist,2015-06-14,55492.59,IT,On Leave,(451)668-4018,dholt@yahoo.com,John Doe,Under review
+E1047,Carol Farrell,HR Specialist,2018-03-25,84295.52,Operations,Terminated,745.495.4311x964,xmiles@yahoo.com,Michael Johnson,Under review
+E1048,Abigail Graves,Sales Associate,2018-10-30,84719.56,HR,On Leave,001-628-065-0972x27167,nfrederick@brown-rollins.net,Jane Smith,Under review
+E1049,Sara West,Operations Manager,2018-09-29,55307.9,HR,Active,193.816.7665,ksilva@armstrong-duncan.com,John Doe,Recently promoted

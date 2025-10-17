@@ -1,0 +1,51 @@
+POID,Date,Vendor,Amount,Description,Status,DueDate,ReferenceID
+PO1000,2024-09-11,Tech Solutions Inc.,7122.63,Purchase order for goods/services from Tech Solutions Inc..,Closed,2024-10-22,REF-0270
+PO1001,2024-02-27,OfficeMax,501.39,Purchase order for goods/services from OfficeMax.,Closed,2024-07-09,REF-1520
+PO1002,2024-06-14,Fleet Rentals,6080.06,Purchase order for goods/services from Fleet Rentals.,Open,2025-01-20,REF-6168
+PO1003,2024-05-10,Tech Solutions Inc.,1239.75,Purchase order for goods/services from Tech Solutions Inc..,Pending,2025-01-16,REF-8955
+PO1004,2024-07-21,Stationery Supplies,5908.87,Purchase order for goods/services from Stationery Supplies.,Closed,2025-01-19,REF-0186
+PO1005,2024-02-03,Tech Solutions Inc.,6437.2,Purchase order for goods/services from Tech Solutions Inc..,Closed,2024-05-20,REF-6083
+PO1006,2024-10-26,Stationery Supplies,6351.29,Purchase order for goods/services from Stationery Supplies.,Pending,2025-01-29,REF-1538
+PO1007,2024-01-18,Tech Solutions Inc.,2447.86,Purchase order for goods/services from Tech Solutions Inc..,Open,2024-06-23,REF-9217
+PO1008,2024-06-21,OfficeMax,7583.1,Purchase order for goods/services from OfficeMax.,Closed,2024-10-06,REF-4343
+PO1009,2024-08-01,Tech Solutions Inc.,6317.99,Purchase order for goods/services from Tech Solutions Inc..,Cancelled,2025-01-18,REF-8533
+PO1010,2024-01-15,Fleet Rentals,9695.54,Purchase order for goods/services from Fleet Rentals.,Pending,2024-06-17,REF-6135
+PO1011,2024-08-04,Tech Solutions Inc.,3968.94,Purchase order for goods/services from Tech Solutions Inc..,Cancelled,2024-12-25,REF-0540
+PO1012,2024-10-13,Tech Solutions Inc.,8532.92,Purchase order for goods/services from Tech Solutions Inc..,Pending,2024-12-19,REF-1270
+PO1013,2024-07-03,Tech Solutions Inc.,9639.71,Purchase order for goods/services from Tech Solutions Inc..,Closed,2024-07-23,REF-3799
+PO1014,2024-03-08,Fleet Rentals,9229.51,Purchase order for goods/services from Fleet Rentals.,Cancelled,2024-10-15,REF-5562
+PO1015,2024-10-18,Tech Solutions Inc.,4357.23,Purchase order for goods/services from Tech Solutions Inc..,Closed,2024-11-08,REF-9154
+PO1016,2024-03-23,Fleet Rentals,3657.85,Purchase order for goods/services from Fleet Rentals.,Open,2024-06-15,REF-9820
+PO1017,2024-09-22,Stationery Supplies,7590.72,Purchase order for goods/services from Stationery Supplies.,Cancelled,2025-01-16,REF-7416
+PO1018,2024-07-14,Tech Solutions Inc.,8684.62,Purchase order for goods/services from Tech Solutions Inc..,Closed,2025-01-08,REF-3055
+PO1019,2024-02-21,Tech Solutions Inc.,1561.0,Purchase order for goods/services from Tech Solutions Inc..,Pending,2024-09-04,REF-4921
+PO1020,2024-01-16,Fleet Rentals,2165.16,Purchase order for goods/services from Fleet Rentals.,Open,2024-11-01,REF-2247
+PO1021,2024-06-23,Fleet Rentals,5951.11,Purchase order for goods/services from Fleet Rentals.,Pending,2025-01-04,REF-8426
+PO1022,2024-09-17,Stationery Supplies,3969.4,Purchase order for goods/services from Stationery Supplies.,Cancelled,2024-10-11,REF-7523
+PO1023,2024-04-26,Tech Solutions Inc.,5503.35,Purchase order for goods/services from Tech Solutions Inc..,Closed,2024-08-01,REF-0928
+PO1024,2024-08-30,OfficeMax,1674.15,Purchase order for goods/services from OfficeMax.,Open,2024-08-31,REF-8581
+PO1025,2024-09-03,Fleet Rentals,3147.91,Purchase order for goods/services from Fleet Rentals.,Pending,2024-09-28,REF-7415
+PO1026,2024-04-01,Fleet Rentals,3502.55,Purchase order for goods/services from Fleet Rentals.,Pending,2024-05-08,REF-0969
+PO1027,2024-01-21,Stationery Supplies,4630.66,Purchase order for goods/services from Stationery Supplies.,Closed,2024-04-19,REF-4622
+PO1028,2024-02-04,Fleet Rentals,3104.63,Purchase order for goods/services from Fleet Rentals.,Open,2024-08-05,REF-5321
+PO1029,2024-06-28,Fleet Rentals,8481.15,Purchase order for goods/services from Fleet Rentals.,Open,2024-10-01,REF-2192
+PO1030,2024-09-04,OfficeMax,5337.64,Purchase order for goods/services from OfficeMax.,Open,2024-11-17,REF-0497
+PO1031,2024-09-25,Tech Solutions Inc.,7299.39,Purchase order for goods/services from Tech Solutions Inc..,Closed,2024-10-28,REF-9168
+PO1032,2024-09-20,Stationery Supplies,679.73,Purchase order for goods/services from Stationery Supplies.,Cancelled,2024-11-02,REF-5484
+PO1033,2024-07-24,Fleet Rentals,9603.63,Purchase order for goods/services from Fleet Rentals.,Open,2024-07-28,REF-8522
+PO1034,2024-08-23,Tech Solutions Inc.,7095.27,Purchase order for goods/services from Tech Solutions Inc..,Open,2025-01-15,REF-2390
+PO1035,2024-01-03,OfficeMax,5521.68,Purchase order for goods/services from OfficeMax.,Pending,2024-10-02,REF-5576
+PO1036,2024-05-20,Fleet Rentals,8895.7,Purchase order for goods/services from Fleet Rentals.,Cancelled,2024-08-31,REF-3813
+PO1037,2024-10-21,Fleet Rentals,827.67,Purchase order for goods/services from Fleet Rentals.,Cancelled,2024-11-08,REF-4236
+PO1038,2024-10-17,Stationery Supplies,5241.03,Purchase order for goods/services from Stationery Supplies.,Open,2025-01-18,REF-7699
+PO1039,2024-06-16,Tech Solutions Inc.,3113.45,Purchase order for goods/services from Tech Solutions Inc..,Closed,2024-06-26,REF-8059
+PO1040,2024-10-07,OfficeMax,1928.32,Purchase order for goods/services from OfficeMax.,Closed,2024-11-17,REF-2969
+PO1041,2024-05-21,Stationery Supplies,2832.61,Purchase order for goods/services from Stationery Supplies.,Open,2024-06-27,REF-3633
+PO1042,2024-03-13,OfficeMax,8517.73,Purchase order for goods/services from OfficeMax.,Closed,2024-04-29,REF-7375
+PO1043,2024-02-19,Stationery Supplies,3831.82,Purchase order for goods/services from Stationery Supplies.,Cancelled,2024-07-20,REF-8267
+PO1044,2024-04-18,Stationery Supplies,5582.27,Purchase order for goods/services from Stationery Supplies.,Cancelled,2024-12-13,REF-1516
+PO1045,2024-02-06,Stationery Supplies,6462.99,Purchase order for goods/services from Stationery Supplies.,Closed,2025-01-20,REF-8400
+PO1046,2024-06-05,Tech Solutions Inc.,3469.37,Purchase order for goods/services from Tech Solutions Inc..,Open,2024-07-12,REF-5108
+PO1047,2024-07-28,Stationery Supplies,2770.9,Purchase order for goods/services from Stationery Supplies.,Closed,2024-12-15,REF-4663
+PO1048,2024-07-12,Stationery Supplies,8460.47,Purchase order for goods/services from Stationery Supplies.,Pending,2024-08-06,REF-5394
+PO1049,2024-05-02,Fleet Rentals,7970.91,Purchase order for goods/services from Fleet Rentals.,Cancelled,2024-10-30,REF-7377

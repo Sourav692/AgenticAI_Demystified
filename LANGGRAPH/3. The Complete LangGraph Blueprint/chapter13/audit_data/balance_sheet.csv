@@ -1,0 +1,51 @@
+AccountID,Date,AccountCode,AccountName,Amount,Type
+BSA1000,2024-03-27,5887,Office Supplies Expense,795.79,Asset
+BSA1001,2024-07-05,1517,Office Supplies Expense,4903.75,Asset
+BSA1004,2024-04-09,3211,Office Supplies Expense,3304.05,Asset
+BSA1005,2024-09-16,8192,Accounts Receivable,4162.89,Asset
+BSA1006,2024-07-14,6791,Software Licenses,4805.97,Asset
+BSA1009,2024-08-21,4189,Software Licenses,2327.44,Asset
+BSA1011,2024-05-11,8718,Software Licenses,3541.64,Asset
+BSA1013,2024-09-03,3105,Accounts Receivable,3890.51,Asset
+BSA1014,2024-01-02,6222,Software Licenses,2238.77,Asset
+BSA1015,2024-11-01,3078,Software Licenses,4795.56,Asset
+BSA1016,2024-08-12,9258,Office Supplies Expense,1278.49,Asset
+BSA1019,2024-03-31,3003,Software Licenses,765.95,Asset
+BSA1020,2024-04-26,8972,Software Licenses,108.77,Asset
+BSA1021,2024-10-21,8194,Accounts Receivable,4434.04,Asset
+BSA1024,2024-02-25,1477,Office Supplies Expense,853.52,Asset
+BSA1025,2024-05-21,2637,Office Supplies Expense,1979.45,Asset
+BSA1027,2024-06-06,9156,Accounts Receivable,2565.44,Asset
+BSA1029,2024-10-20,9604,Office Supplies Expense,3872.29,Asset
+BSA1031,2024-01-30,8363,Software Licenses,1979.71,Asset
+BSA1034,2024-09-05,1828,Accounts Receivable,4348.2,Asset
+BSA1035,2024-09-26,3806,Accounts Receivable,2564.55,Asset
+BSA1036,2024-04-18,1786,Accounts Receivable,1351.01,Asset
+BSA1037,2024-05-15,4314,Software Licenses,3415.87,Asset
+BSA1038,2024-04-09,8365,Accounts Receivable,3341.14,Asset
+BSA1042,2024-08-01,5421,Accounts Receivable,2944.5,Asset
+BSA1047,2024-09-29,4903,Office Supplies Expense,1772.78,Asset
+BSA1048,2024-01-04,6023,Software Licenses,4740.54,Asset
+BSA1049,2024-06-29,4300,Office Supplies Expense,2672.31,Asset
+BSL1002,2024-06-17,2372,Consulting Fees,2676.22,Liability
+BSL1003,2024-10-30,7437,Consulting Fees,2431.21,Liability
+BSL1007,2024-03-29,4093,Consulting Fees,4051.06,Liability
+BSL1008,2024-10-17,7195,Travel Expense,2153.56,Liability
+BSL1010,2024-08-10,4478,Travel Expense,1375.81,Liability
+BSL1012,2024-10-31,3479,Travel Expense,2645.08,Liability
+BSL1017,2024-03-16,1192,Travel Expense,3821.62,Liability
+BSL1018,2024-05-18,4675,Consulting Fees,3067.91,Liability
+BSL1022,2024-02-27,5684,Consulting Fees,799.81,Liability
+BSL1023,2024-05-22,3554,Consulting Fees,3357.0,Liability
+BSL1026,2024-03-02,3762,Consulting Fees,1865.83,Liability
+BSL1028,2024-10-21,6413,Travel Expense,1726.16,Liability
+BSL1030,2024-07-23,9204,Consulting Fees,1170.11,Liability
+BSL1032,2024-07-23,2372,Travel Expense,1382.49,Liability
+BSL1033,2024-03-10,1404,Travel Expense,4430.87,Liability
+BSL1039,2024-09-16,8989,Travel Expense,2843.32,Liability
+BSL1040,2024-08-12,3159,Travel Expense,2964.01,Liability
+BSL1041,2024-09-25,8135,Consulting Fees,4308.13,Liability
+BSL1043,2024-03-26,7039,Travel Expense,4316.1,Liability
+BSL1044,2024-04-24,8570,Consulting Fees,1066.78,Liability
+BSL1045,2024-04-16,9821,Travel Expense,3150.57,Liability
+BSL1046,2024-02-24,6315,Consulting Fees,1380.75,Liability

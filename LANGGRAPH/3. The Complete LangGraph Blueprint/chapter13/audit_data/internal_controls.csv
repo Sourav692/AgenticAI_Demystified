@@ -1,0 +1,51 @@
+ControlID,ControlName,Description,ResponsibleDept,Frequency,EffectiveDate,Status,LastReviewDate,ControlOwner,Notes
+IC1000,Data Backup Procedure,Control procedure for data backup procedure.,Operations,Annually,2020-10-24,Active,2021-06-13,Michael Johnson,Reviewed by Michael Johnson.
+IC1001,Compliance Reporting,Control procedure for compliance reporting.,IT,Annually,2020-04-12,Active,2022-12-16,John Doe,Reviewed by John Doe.
+IC1002,Inventory Reconciliation,Control procedure for inventory reconciliation.,Finance,Quarterly,2020-08-03,Active,2021-09-23,Jane Smith,Reviewed by Jane Smith.
+IC1003,Cash Handling Procedure,Control procedure for cash handling procedure.,IT,Annually,2020-05-02,Active,2022-06-28,Emily Clark,Reviewed by Emily Clark.
+IC1004,Supplier Onboarding Process,Control procedure for supplier onboarding process.,Finance,Annually,2021-11-30,Under Review,2023-06-13,Michael Johnson,Reviewed by Michael Johnson.
+IC1005,Data Backup Procedure,Control procedure for data backup procedure.,HR,Quarterly,2021-12-03,Inactive,2022-01-23,Alex Turner,No recent activity.
+IC1006,Inventory Reconciliation,Control procedure for inventory reconciliation.,Operations,Bi-Annually,2024-09-30,Active,2024-10-06,Emily Clark,Reviewed by Emily Clark.
+IC1007,Inventory Reconciliation,Control procedure for inventory reconciliation.,IT,Quarterly,2022-05-20,Under Review,2022-11-10,Jane Smith,Reviewed by Jane Smith.
+IC1008,Expense Approval Workflow,Control procedure for expense approval workflow.,Operations,Annually,2021-03-05,Active,2021-04-22,Emily Clark,Reviewed by Emily Clark.
+IC1009,Data Backup Procedure,Control procedure for data backup procedure.,IT,Quarterly,2024-04-27,Inactive,2024-05-27,Alex Turner,No recent activity.
+IC1010,Data Backup Procedure,Control procedure for data backup procedure.,IT,Bi-Annually,2021-11-25,Active,2022-11-23,Emily Clark,Reviewed by Emily Clark.
+IC1011,Payroll Review,Control procedure for payroll review.,HR,Bi-Annually,2023-03-29,Inactive,2023-11-28,Alex Turner,No recent activity.
+IC1012,Cash Handling Procedure,Control procedure for cash handling procedure.,HR,Monthly,2024-01-08,Under Review,2024-08-24,Michael Johnson,Reviewed by Michael Johnson.
+IC1013,Inventory Reconciliation,Control procedure for inventory reconciliation.,Operations,Bi-Annually,2020-03-18,Active,2022-01-02,Jane Smith,Reviewed by Jane Smith.
+IC1014,Cash Handling Procedure,Control procedure for cash handling procedure.,Finance,Bi-Annually,2021-06-07,Active,2023-01-19,Jane Smith,Reviewed by Jane Smith.
+IC1015,Supplier Onboarding Process,Control procedure for supplier onboarding process.,Compliance,Quarterly,2024-09-14,Under Review,2024-10-02,Michael Johnson,Reviewed by Michael Johnson.
+IC1016,Cash Handling Procedure,Control procedure for cash handling procedure.,Compliance,Monthly,2023-07-30,Under Review,2023-11-07,Michael Johnson,Reviewed by Michael Johnson.
+IC1017,Fixed Asset Verification,Control procedure for fixed asset verification.,HR,Monthly,2024-05-06,Active,2024-08-13,Jane Smith,Reviewed by Jane Smith.
+IC1018,Cash Handling Procedure,Control procedure for cash handling procedure.,HR,Bi-Annually,2022-11-17,Active,2023-05-25,John Doe,Reviewed by John Doe.
+IC1019,Inventory Reconciliation,Control procedure for inventory reconciliation.,HR,Monthly,2023-03-09,Under Review,2023-06-15,John Doe,Reviewed by John Doe.
+IC1020,Payroll Review,Control procedure for payroll review.,Finance,Annually,2024-03-22,Inactive,2024-07-24,Alex Turner,No recent activity.
+IC1021,Revenue Recognition Process,Control procedure for revenue recognition process.,Operations,Annually,2020-10-11,Inactive,2021-09-07,Jane Smith,No recent activity.
+IC1022,Data Backup Procedure,Control procedure for data backup procedure.,IT,Annually,2022-08-27,Active,2023-01-06,John Doe,Reviewed by John Doe.
+IC1023,Expense Approval Workflow,Control procedure for expense approval workflow.,IT,Annually,2022-09-04,Inactive,2023-05-22,John Doe,No recent activity.
+IC1024,Revenue Recognition Process,Control procedure for revenue recognition process.,Finance,Quarterly,2023-08-25,Under Review,2023-12-28,Michael Johnson,Reviewed by Michael Johnson.
+IC1025,Supplier Onboarding Process,Control procedure for supplier onboarding process.,Finance,Monthly,2020-09-20,Inactive,2020-10-09,John Doe,No recent activity.
+IC1026,Cash Handling Procedure,Control procedure for cash handling procedure.,Operations,Monthly,2023-09-12,Inactive,2024-02-03,Michael Johnson,No recent activity.
+IC1027,Revenue Recognition Process,Control procedure for revenue recognition process.,Compliance,Monthly,2021-09-03,Active,2023-05-27,John Doe,Reviewed by John Doe.
+IC1028,Access Control Policy,Control procedure for access control policy.,Compliance,Annually,2023-08-21,Inactive,2023-12-27,Alex Turner,No recent activity.
+IC1029,Access Control Policy,Control procedure for access control policy.,HR,Monthly,2022-11-26,Inactive,2023-01-06,John Doe,No recent activity.
+IC1030,Payroll Review,Control procedure for payroll review.,Compliance,Bi-Annually,2023-12-29,Inactive,2024-04-22,Alex Turner,No recent activity.
+IC1031,Cash Handling Procedure,Control procedure for cash handling procedure.,Operations,Monthly,2021-05-15,Active,2022-09-03,Emily Clark,Reviewed by Emily Clark.
+IC1032,Access Control Policy,Control procedure for access control policy.,HR,Bi-Annually,2024-06-29,Under Review,2024-08-24,Michael Johnson,Reviewed by Michael Johnson.
+IC1033,Compliance Reporting,Control procedure for compliance reporting.,Operations,Bi-Annually,2021-06-10,Under Review,2023-02-18,Alex Turner,Reviewed by Alex Turner.
+IC1034,Inventory Reconciliation,Control procedure for inventory reconciliation.,Operations,Monthly,2023-04-30,Active,2024-03-18,Alex Turner,Reviewed by Alex Turner.
+IC1035,Payroll Review,Control procedure for payroll review.,IT,Bi-Annually,2024-06-05,Under Review,2024-09-05,Jane Smith,Reviewed by Jane Smith.
+IC1036,Payroll Review,Control procedure for payroll review.,Finance,Bi-Annually,2022-09-06,Under Review,2022-11-28,Michael Johnson,Reviewed by Michael Johnson.
+IC1037,Cash Handling Procedure,Control procedure for cash handling procedure.,IT,Bi-Annually,2023-04-26,Active,2024-03-27,John Doe,Reviewed by John Doe.
+IC1038,Access Control Policy,Control procedure for access control policy.,Compliance,Annually,2024-04-03,Active,2024-09-22,Emily Clark,Reviewed by Emily Clark.
+IC1039,Supplier Onboarding Process,Control procedure for supplier onboarding process.,Operations,Bi-Annually,2021-01-11,Inactive,2023-06-08,Emily Clark,No recent activity.
+IC1040,Supplier Onboarding Process,Control procedure for supplier onboarding process.,HR,Monthly,2023-05-12,Active,2024-09-16,Michael Johnson,Reviewed by Michael Johnson.
+IC1041,Revenue Recognition Process,Control procedure for revenue recognition process.,HR,Monthly,2020-08-22,Active,2022-11-11,Jane Smith,Reviewed by Jane Smith.
+IC1042,Fixed Asset Verification,Control procedure for fixed asset verification.,Compliance,Bi-Annually,2021-09-24,Under Review,2021-11-29,Alex Turner,Reviewed by Alex Turner.
+IC1043,Payroll Review,Control procedure for payroll review.,HR,Annually,2020-11-09,Active,2022-07-01,Emily Clark,Reviewed by Emily Clark.
+IC1044,Cash Handling Procedure,Control procedure for cash handling procedure.,Operations,Annually,2020-10-12,Inactive,2024-01-19,Emily Clark,No recent activity.
+IC1045,Access Control Policy,Control procedure for access control policy.,Finance,Bi-Annually,2021-08-18,Under Review,2024-06-12,Michael Johnson,Reviewed by Michael Johnson.
+IC1046,Data Backup Procedure,Control procedure for data backup procedure.,Compliance,Quarterly,2023-06-01,Active,2024-10-09,John Doe,Reviewed by John Doe.
+IC1047,Inventory Reconciliation,Control procedure for inventory reconciliation.,IT,Quarterly,2023-09-02,Under Review,2024-02-02,John Doe,Reviewed by John Doe.
+IC1048,Fixed Asset Verification,Control procedure for fixed asset verification.,Operations,Monthly,2023-05-27,Under Review,2024-07-21,Alex Turner,Reviewed by Alex Turner.
+IC1049,Payroll Review,Control procedure for payroll review.,Operations,Monthly,2020-02-15,Inactive,2021-02-16,Jane Smith,No recent activity.

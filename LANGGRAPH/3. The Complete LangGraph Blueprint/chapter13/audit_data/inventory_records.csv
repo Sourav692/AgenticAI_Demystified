@@ -1,0 +1,51 @@
+InventoryID,ItemName,Category,Quantity,UnitCost,TotalCost,Location,Supplier,DateReceived,ReorderLevel,Status
+INV1000,Maintenance Supplies Item 1,Electronics,96,437.96,42044.16,Warehouse 1,Industrial Goods,2024-06-09,9,Out of Stock
+INV1001,Maintenance Supplies Item 2,Office Supplies,73,79.49,5802.77,Warehouse 1,Industrial Goods,2024-01-13,10,Out of Stock
+INV1002,Maintenance Supplies Item 3,Electronics,76,298.8,22708.8,Head Office,Tech Solutions Inc.,2024-04-01,11,In Stock
+INV1003,Electronics Item 4,Electronics,37,301.62,11159.94,Warehouse 1,Industrial Goods,2024-03-03,16,In Stock
+INV1004,Office Supplies Item 5,Furniture,72,325.44,23431.68,Warehouse 1,Warehouse Supplies,2024-06-01,15,Out of Stock
+INV1005,Office Supplies Item 6,Electronics,44,153.93,6772.92,Warehouse 1,Industrial Goods,2024-07-02,17,Out of Stock
+INV1006,Maintenance Supplies Item 7,Maintenance Supplies,63,194.96,12282.48,Head Office,Warehouse Supplies,2024-08-02,14,Pending Reorder
+INV1007,Furniture Item 8,Office Supplies,56,105.29,5896.24,Warehouse 1,Warehouse Supplies,2024-02-10,20,Out of Stock
+INV1008,Electronics Item 9,Maintenance Supplies,82,436.05,35756.1,Regional Office,Tech Solutions Inc.,2024-03-03,12,Pending Reorder
+INV1009,Furniture Item 10,Maintenance Supplies,14,216.2,3026.8,Regional Office,OfficeMax,2024-02-12,13,Pending Reorder
+INV1010,Electronics Item 11,Maintenance Supplies,16,403.8,6460.8,Regional Office,Industrial Goods,2024-01-10,13,In Stock
+INV1011,Office Supplies Item 12,Electronics,25,372.43,9310.75,Warehouse 1,OfficeMax,2024-08-12,14,Out of Stock
+INV1012,Office Supplies Item 13,Electronics,30,117.26,3517.8,Regional Office,Industrial Goods,2024-10-18,11,In Stock
+INV1013,Maintenance Supplies Item 14,Furniture,86,318.41,27383.26,Warehouse 1,Industrial Goods,2024-01-19,20,Pending Reorder
+INV1014,Maintenance Supplies Item 15,Maintenance Supplies,57,221.58,12630.06,Regional Office,Industrial Goods,2024-09-24,17,Pending Reorder
+INV1015,Office Supplies Item 16,Furniture,81,384.28,31126.68,Head Office,Industrial Goods,2024-08-16,6,Pending Reorder
+INV1016,Electronics Item 17,Furniture,78,180.5,14079.0,Head Office,Industrial Goods,2024-04-26,19,In Stock
+INV1017,Electronics Item 18,Maintenance Supplies,100,325.34,32534.0,Head Office,Warehouse Supplies,2024-06-04,10,Out of Stock
+INV1018,Electronics Item 19,Maintenance Supplies,76,93.06,7072.56,Warehouse 1,Industrial Goods,2024-08-31,8,Out of Stock
+INV1019,Office Supplies Item 20,Furniture,89,365.1,32493.9,Head Office,Warehouse Supplies,2024-07-07,18,Out of Stock
+INV1020,Office Supplies Item 21,Maintenance Supplies,65,380.69,24744.85,Head Office,Warehouse Supplies,2024-03-25,16,Pending Reorder
+INV1021,Electronics Item 22,Office Supplies,56,349.78,19587.68,Head Office,OfficeMax,2024-04-21,11,In Stock
+INV1022,Furniture Item 23,Maintenance Supplies,81,333.37,27002.97,Regional Office,Tech Solutions Inc.,2024-03-22,7,In Stock
+INV1023,Electronics Item 24,Electronics,38,286.37,10882.06,Warehouse 1,Warehouse Supplies,2024-09-04,16,Pending Reorder
+INV1024,Office Supplies Item 25,Furniture,46,55.68,2561.28,Warehouse 1,OfficeMax,2024-09-25,19,Pending Reorder
+INV1025,Furniture Item 26,Furniture,56,217.48,12178.88,Head Office,Warehouse Supplies,2024-08-16,16,Pending Reorder
+INV1026,Office Supplies Item 27,Furniture,71,459.24,32606.04,Warehouse 1,Tech Solutions Inc.,2024-10-28,19,In Stock
+INV1027,Maintenance Supplies Item 28,Office Supplies,31,401.57,12448.67,Warehouse 1,Warehouse Supplies,2024-03-16,10,Pending Reorder
+INV1028,Maintenance Supplies Item 29,Maintenance Supplies,44,276.51,12166.44,Head Office,Warehouse Supplies,2024-05-24,16,Out of Stock
+INV1029,Office Supplies Item 30,Maintenance Supplies,22,36.1,794.2,Warehouse 1,Industrial Goods,2024-03-01,8,Pending Reorder
+INV1030,Office Supplies Item 31,Furniture,72,41.4,2980.8,Regional Office,Tech Solutions Inc.,2024-05-02,5,Out of Stock
+INV1031,Office Supplies Item 32,Electronics,24,253.78,6090.72,Warehouse 1,Tech Solutions Inc.,2024-06-21,8,Pending Reorder
+INV1032,Maintenance Supplies Item 33,Maintenance Supplies,25,340.05,8501.25,Head Office,Tech Solutions Inc.,2024-05-15,16,Pending Reorder
+INV1033,Office Supplies Item 34,Maintenance Supplies,72,176.98,12742.56,Regional Office,Tech Solutions Inc.,2024-02-22,19,In Stock
+INV1034,Office Supplies Item 35,Maintenance Supplies,43,370.59,15935.37,Regional Office,Industrial Goods,2024-08-23,14,In Stock
+INV1035,Maintenance Supplies Item 36,Maintenance Supplies,40,481.56,19262.4,Warehouse 1,Tech Solutions Inc.,2024-10-29,13,Out of Stock
+INV1036,Office Supplies Item 37,Electronics,19,353.94,6724.86,Head Office,Tech Solutions Inc.,2024-06-19,9,Pending Reorder
+INV1037,Furniture Item 38,Furniture,36,140.77,5067.72,Head Office,Tech Solutions Inc.,2024-06-01,14,Pending Reorder
+INV1038,Furniture Item 39,Maintenance Supplies,54,103.88,5609.52,Regional Office,Tech Solutions Inc.,2024-03-07,12,In Stock
+INV1039,Maintenance Supplies Item 40,Maintenance Supplies,82,330.25,27080.5,Warehouse 1,OfficeMax,2024-06-25,8,Out of Stock
+INV1040,Furniture Item 41,Furniture,28,159.41,4463.48,Warehouse 1,Tech Solutions Inc.,2024-01-21,10,In Stock
+INV1041,Electronics Item 42,Furniture,19,66.52,1263.88,Warehouse 1,Warehouse Supplies,2024-07-27,16,Pending Reorder
+INV1042,Electronics Item 43,Electronics,31,490.06,15191.86,Head Office,Tech Solutions Inc.,2024-03-28,13,Pending Reorder
+INV1043,Office Supplies Item 44,Electronics,29,261.68,7588.72,Head Office,Warehouse Supplies,2024-10-16,15,Out of Stock
+INV1044,Office Supplies Item 45,Maintenance Supplies,86,459.34,39503.24,Head Office,OfficeMax,2024-03-03,17,In Stock
+INV1045,Furniture Item 46,Maintenance Supplies,36,422.23,15200.28,Regional Office,Tech Solutions Inc.,2024-06-13,11,In Stock
+INV1046,Maintenance Supplies Item 47,Office Supplies,19,439.0,8341.0,Regional Office,Tech Solutions Inc.,2024-01-28,19,Pending Reorder
+INV1047,Electronics Item 48,Electronics,100,341.15,34115.0,Regional Office,OfficeMax,2024-02-29,5,Pending Reorder
+INV1048,Electronics Item 49,Electronics,83,405.42,33649.86,Head Office,Tech Solutions Inc.,2024-05-27,15,Pending Reorder
+INV1049,Maintenance Supplies Item 50,Office Supplies,10,102.11,1021.1,Regional Office,Industrial Goods,2024-04-08,17,Pending Reorder

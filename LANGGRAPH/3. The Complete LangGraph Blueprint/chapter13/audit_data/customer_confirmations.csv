@@ -1,0 +1,5 @@
+ConfirmationID,Customer,DateConfirmed,Balance,ReferenceID,Status,Notes
+CC1000,Client A,2024-04-05,5041.7,REF-1296,Disputed,Pending customer response.
+CC1001,Client B,2024-04-07,7265.92,REF-2233,Disputed,Pending customer response.
+CC1002,Partner Co.,2024-06-22,11363.68,REF-5148,Disputed,Pending customer response.
+CC1003,Corporate Services,2024-06-24,5920.95,REF-1266,Pending,Pending customer response.

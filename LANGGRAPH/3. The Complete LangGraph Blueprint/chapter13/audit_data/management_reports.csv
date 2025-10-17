@@ -1,0 +1,51 @@
+ReportID,Date,ReportType,Description,PreparedBy,ReferenceID
+MR1000,2024-01-15,Financial,"Quarterly financial report Q1",jdoe,REF-1234
+MR1001,2024-01-30,Operations,"Monthly operations overview for January",asmith,REF-5678
+MR1002,2024-02-15,Strategy,"Annual strategy review and planning",etaylor,REF-7890
+MR1003,2024-02-28,Compliance,"Regulatory compliance report",mwilliams,REF-2345
+MR1004,2024-03-15,Financial,"Quarterly financial report Q2",cjohnson,REF-6789
+MR1005,2024-03-31,Operations,"Monthly operations overview for March",jdoe,REF-8912
+MR1006,2024-04-15,Financial,"Quarterly financial report Q3",asmith,REF-3456
+MR1007,2024-04-30,Compliance,"Audit and risk assessment report",etaylor,REF-4567
+MR1008,2024-05-15,Operations,"Monthly operations overview for April",mwilliams,REF-7891
+MR1009,2024-05-31,Strategy,"Mid-year strategy adjustments",cjohnson,REF-2346
+MR1010,2024-06-15,Financial,"Quarterly financial report Q4",jdoe,REF-5679
+MR1011,2024-06-30,Operations,"Monthly operations overview for June",asmith,REF-7892
+MR1012,2024-07-15,Compliance,"Updated compliance requirements",etaylor,REF-3457
+MR1013,2024-07-31,Financial,"Annual financial summary",mwilliams,REF-8913
+MR1014,2024-08-15,Operations,"Monthly operations overview for August",cjohnson,REF-2347
+MR1015,2024-08-31,Strategy,"New market expansion analysis",jdoe,REF-4568
+MR1016,2024-09-15,Financial,"Quarterly financial report Q1",asmith,REF-7893
+MR1017,2024-09-30,Compliance,"Quarterly compliance review",etaylor,REF-5670
+MR1018,2024-10-15,Operations,"Monthly operations overview for October",mwilliams,REF-3458
+MR1019,2024-10-31,Strategy,"Long-term strategic goals",cjohnson,REF-7894
+MR1020,2024-11-15,Financial,"Quarterly financial report Q2",jdoe,REF-2348
+MR1021,2024-11-30,Compliance,"Risk management updates",asmith,REF-4569
+MR1022,2024-12-15,Operations,"Year-end operations summary",etaylor,REF-5671
+MR1023,2024-12-31,Strategy,"End-of-year strategy wrap-up",mwilliams,REF-8914
+MR1024,2024-01-15,Financial,"Quarterly financial report Q3",cjohnson,REF-7895
+MR1025,2024-01-30,Operations,"Monthly operations overview for January",jdoe,REF-5672
+MR1026,2024-02-15,Strategy,"Quarterly strategy review",asmith,REF-2349
+MR1027,2024-02-28,Compliance,"Internal controls audit report",etaylor,REF-4560
+MR1028,2024-03-15,Financial,"Quarterly financial report Q4",mwilliams,REF-5673
+MR1029,2024-03-31,Operations,"Monthly operations overview for March",cjohnson,REF-8905
+MR1030,2024-04-15,Financial,"Year-end financial summary",jdoe,REF-8915
+MR1031,2024-04-30,Compliance,"Regulatory updates",asmith,REF-7896
+MR1032,2024-05-15,Operations,"Monthly operations overview for May",etaylor,REF-2340
+MR1033,2024-05-31,Strategy,"Strategic goals adjustment",mwilliams,REF-4561
+MR1034,2024-06-15,Financial,"Mid-year financial overview",cjohnson,REF-5674
+MR1035,2024-06-30,Operations,"Monthly operations overview for June",jdoe,REF-8916
+MR1036,2024-07-15,Compliance,"Quarterly compliance review",asmith,REF-7897
+MR1037,2024-07-31,Financial,"Annual financial report",etaylor,REF-2341
+MR1038,2024-08-15,Operations,"Monthly operations overview for August",mwilliams,REF-4562
+MR1039,2024-08-31,Strategy,"Market position review",cjohnson,REF-5675
+MR1040,2024-09-15,Financial,"Quarterly financial report Q1",jdoe,REF-7898
+MR1041,2024-09-30,Compliance,"Compliance assessment",asmith,REF-3459
+MR1042,2024-10-15,Operations,"Monthly operations overview for October",etaylor,REF-8909
+MR1043,2024-10-31,Strategy,"End-of-year strategy",mwilliams,REF-1235
+MR1044,2024-11-15,Financial,"Quarterly financial report Q2",cjohnson,REF-5676
+MR1045,2024-11-30,Compliance,"Risk assessment update",jdoe,REF-8910
+MR1046,2024-12-15,Operations,"Monthly operations overview for December",asmith,REF-7899
+MR1047,2024-12-31,Strategy,"Final strategy review for the year",etaylor,REF-2342
+MR1048,2024-01-15,Financial,"Quarterly financial report Q3",mwilliams,REF-4563
+MR1049,2024-01-30,Operations,"Monthly operations overview for January",cjohnson,REF-5677

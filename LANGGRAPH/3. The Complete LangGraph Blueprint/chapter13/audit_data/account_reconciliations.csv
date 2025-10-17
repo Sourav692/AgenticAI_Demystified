@@ -1,0 +1,101 @@
+ReconciliationID,Date,AccountType,AccountID,SystemBalance,ActualBalance,Difference,Status,ReferenceID,Notes
+AR1000,2024-10-18,Asset Account,ACC-6260,4203.37,3450.53,-752.84,Matched,REF-0356,Generated for testing with variance in actual vs system balance.
+AR1001,2024-05-03,Liability Account,ACC-6950,43149.9,43468.53,318.63,Pending Review,REF-3064,Generated for testing with variance in actual vs system balance.
+AR1002,2024-03-23,Liability Account,ACC-2577,24585.0,23772.09,-812.91,Pending Review,REF-0619,Generated for testing with variance in actual vs system balance.
+AR1003,2024-06-02,Bank Account,ACC-2071,25930.52,26457.47,526.95,Matched,REF-5774,Generated for testing with variance in actual vs system balance.
+AR1004,2024-09-25,Bank Account,ACC-2311,28909.35,29093.38,184.03,Unmatched,REF-8580,Generated for testing with variance in actual vs system balance.
+AR1005,2024-04-12,Equity Account,ACC-5191,11594.59,10753.14,-841.45,Matched,REF-6322,Generated for testing with variance in actual vs system balance.
+AR1006,2024-07-04,Asset Account,ACC-4048,4385.84,4228.64,-157.2,Matched,REF-8431,Generated for testing with variance in actual vs system balance.
+AR1007,2024-09-13,Asset Account,ACC-9459,43425.17,43289.02,-136.15,Matched,REF-8545,Generated for testing with variance in actual vs system balance.
+AR1008,2024-03-22,Credit Account,ACC-5478,32851.68,32884.23,32.55,Matched,REF-9553,Generated for testing with variance in actual vs system balance.
+AR1009,2024-07-21,Equity Account,ACC-7072,46609.22,46445.24,-163.98,Unmatched,REF-7681,Generated for testing with variance in actual vs system balance.
+AR1010,2024-08-24,Liability Account,ACC-0052,3939.93,3038.97,-900.96,Matched,REF-3488,Generated for testing with variance in actual vs system balance.
+AR1011,2024-02-09,Asset Account,ACC-1343,9276.56,10207.9,931.34,Pending Review,REF-6991,Generated for testing with variance in actual vs system balance.
+AR1012,2024-01-05,Asset Account,ACC-8138,22180.62,23147.42,966.8,Pending Review,REF-2425,Generated for testing with variance in actual vs system balance.
+AR1013,2024-06-20,Liability Account,ACC-9422,41986.76,42141.43,154.67,Unmatched,REF-2091,Generated for testing with variance in actual vs system balance.
+AR1014,2024-10-18,Credit Account,ACC-7227,39303.98,39817.59,513.61,Matched,REF-2472,Generated for testing with variance in actual vs system balance.
+AR1015,2024-05-21,Credit Account,ACC-1005,27767.7,26964.21,-803.49,Matched,REF-7311,Generated for testing with variance in actual vs system balance.
+AR1016,2024-07-25,Credit Account,ACC-4460,26593.75,27279.59,685.84,Matched,REF-4719,Generated for testing with variance in actual vs system balance.
+AR1017,2024-03-26,Liability Account,ACC-2405,40225.7,40049.83,-175.87,Pending Review,REF-8123,Generated for testing with variance in actual vs system balance.
+AR1018,2024-07-11,Liability Account,ACC-2246,8966.32,9427.03,460.71,Pending Review,REF-4659,Generated for testing with variance in actual vs system balance.
+AR1019,2024-03-10,Bank Account,ACC-3530,4874.4,5790.36,915.96,Matched,REF-4816,Generated for testing with variance in actual vs system balance.
+AR1020,2024-01-05,Liability Account,ACC-7770,4502.47,4346.16,-156.31,Unmatched,REF-4830,Generated for testing with variance in actual vs system balance.
+AR1021,2024-02-16,Credit Account,ACC-8757,37100.79,36607.69,-493.1,Unmatched,REF-6117,Generated for testing with variance in actual vs system balance.
+AR1022,2024-01-03,Equity Account,ACC-5435,9573.93,8860.88,-713.05,Pending Review,REF-1329,Generated for testing with variance in actual vs system balance.
+AR1023,2024-07-19,Equity Account,ACC-0150,25396.42,24509.32,-887.1,Pending Review,REF-6969,Generated for testing with variance in actual vs system balance.
+AR1024,2024-11-01,Equity Account,ACC-4703,46165.33,46900.25,734.92,Matched,REF-2406,Generated for testing with variance in actual vs system balance.
+AR1025,2024-08-10,Equity Account,ACC-5220,17999.59,17242.02,-757.57,Matched,REF-4139,Generated for testing with variance in actual vs system balance.
+AR1026,2024-09-25,Equity Account,ACC-4357,34352.89,33675.79,-677.1,Matched,REF-6998,Generated for testing with variance in actual vs system balance.
+AR1027,2024-06-05,Liability Account,ACC-4400,47083.89,46776.14,-307.75,Matched,REF-4039,Generated for testing with variance in actual vs system balance.
+AR1028,2024-03-29,Asset Account,ACC-5403,45501.26,46455.14,953.88,Pending Review,REF-7316,Generated for testing with variance in actual vs system balance.
+AR1029,2024-10-10,Credit Account,ACC-4242,7399.81,8380.41,980.6,Matched,REF-2116,Generated for testing with variance in actual vs system balance.
+AR1030,2024-03-25,Equity Account,ACC-1661,6230.96,6386.01,155.05,Unmatched,REF-0372,Generated for testing with variance in actual vs system balance.
+AR1031,2024-07-22,Liability Account,ACC-9216,44627.95,44573.35,-54.6,Matched,REF-6381,Generated for testing with variance in actual vs system balance.
+AR1032,2024-03-08,Bank Account,ACC-6196,12446.74,12416.6,-30.14,Pending Review,REF-6629,Generated for testing with variance in actual vs system balance.
+AR1033,2024-03-27,Equity Account,ACC-6216,18281.24,18000.45,-280.79,Pending Review,REF-3599,Generated for testing with variance in actual vs system balance.
+AR1034,2024-03-31,Credit Account,ACC-6673,12166.7,13095.16,928.46,Matched,REF-3831,Generated for testing with variance in actual vs system balance.
+AR1035,2024-05-13,Equity Account,ACC-7674,24939.03,24509.87,-429.16,Matched,REF-7819,Generated for testing with variance in actual vs system balance.
+AR1036,2024-08-11,Credit Account,ACC-2845,10202.58,9756.63,-445.95,Matched,REF-7311,Generated for testing with variance in actual vs system balance.
+AR1037,2024-09-14,Equity Account,ACC-0050,7863.22,8199.35,336.13,Matched,REF-2125,Generated for testing with variance in actual vs system balance.
+AR1038,2024-05-07,Equity Account,ACC-0195,16304.53,16959.2,654.67,Pending Review,REF-2321,Generated for testing with variance in actual vs system balance.
+AR1039,2024-04-01,Credit Account,ACC-9477,12152.78,11777.23,-375.55,Unmatched,REF-3902,Generated for testing with variance in actual vs system balance.
+AR1040,2024-09-13,Credit Account,ACC-0287,46584.82,46558.59,-26.23,Matched,REF-0312,Generated for testing with variance in actual vs system balance.
+AR1041,2024-04-16,Bank Account,ACC-4305,4553.68,4269.92,-283.76,Matched,REF-4727,Generated for testing with variance in actual vs system balance.
+AR1042,2024-03-02,Asset Account,ACC-0815,3249.36,3513.56,264.2,Unmatched,REF-5772,Generated for testing with variance in actual vs system balance.
+AR1043,2024-02-10,Equity Account,ACC-3149,47864.76,46879.52,-985.24,Pending Review,REF-7073,Generated for testing with variance in actual vs system balance.
+AR1044,2024-04-11,Asset Account,ACC-4777,6562.54,5720.77,-841.77,Pending Review,REF-6902,Generated for testing with variance in actual vs system balance.
+AR1045,2024-03-28,Bank Account,ACC-2792,39040.34,38917.95,-122.39,Pending Review,REF-8333,Generated for testing with variance in actual vs system balance.
+AR1046,2024-04-15,Equity Account,ACC-4166,49528.77,49197.75,-331.02,Unmatched,REF-8084,Generated for testing with variance in actual vs system balance.
+AR1047,2024-08-14,Bank Account,ACC-3138,37481.49,37613.6,132.11,Matched,REF-2308,Generated for testing with variance in actual vs system balance.
+AR1048,2024-04-04,Credit Account,ACC-6043,41740.8,40901.54,-839.26,Pending Review,REF-9436,Generated for testing with variance in actual vs system balance.
+AR1049,2024-06-01,Credit Account,ACC-7784,41846.46,42591.89,745.43,Matched,REF-4532,Generated for testing with variance in actual vs system balance.
+AR1050,2024-01-16,Asset Account,ACC-4659,18770.22,19688.41,918.19,Matched,REF-1709,Generated for testing with variance in actual vs system balance.
+AR1051,2024-09-01,Bank Account,ACC-1586,6849.92,7387.97,538.05,Matched,REF-0913,Generated for testing with variance in actual vs system balance.
+AR1052,2024-04-28,Bank Account,ACC-6909,5303.26,4976.05,-327.21,Unmatched,REF-6017,Generated for testing with variance in actual vs system balance.
+AR1053,2024-05-21,Equity Account,ACC-2765,35864.49,36579.76,715.27,Unmatched,REF-5222,Generated for testing with variance in actual vs system balance.
+AR1054,2024-03-28,Credit Account,ACC-1099,6597.75,6840.11,242.36,Matched,REF-6674,Generated for testing with variance in actual vs system balance.
+AR1055,2024-05-03,Liability Account,ACC-1435,48838.76,49238.53,399.77,Unmatched,REF-8661,Generated for testing with variance in actual vs system balance.
+AR1056,2024-05-17,Liability Account,ACC-4903,30351.1,30943.86,592.76,Unmatched,REF-9552,Generated for testing with variance in actual vs system balance.
+AR1057,2024-06-07,Equity Account,ACC-6650,2484.59,2337.35,-147.24,Unmatched,REF-7220,Generated for testing with variance in actual vs system balance.
+AR1058,2024-08-29,Asset Account,ACC-1657,17934.42,17792.81,-141.61,Matched,REF-4142,Generated for testing with variance in actual vs system balance.
+AR1059,2024-01-01,Equity Account,ACC-2852,18013.79,17090.5,-923.29,Matched,REF-0487,Generated for testing with variance in actual vs system balance.
+AR1060,2024-05-29,Equity Account,ACC-6974,39254.15,39299.77,45.62,Unmatched,REF-6111,Generated for testing with variance in actual vs system balance.
+AR1061,2024-10-12,Bank Account,ACC-3470,13054.8,12551.12,-503.68,Matched,REF-1744,Generated for testing with variance in actual vs system balance.
+AR1062,2024-03-31,Equity Account,ACC-6695,46423.97,47024.87,600.9,Matched,REF-0895,Generated for testing with variance in actual vs system balance.
+AR1063,2024-02-05,Asset Account,ACC-0592,38682.07,38723.62,41.55,Pending Review,REF-9858,Generated for testing with variance in actual vs system balance.
+AR1064,2024-06-15,Asset Account,ACC-8397,6598.52,7135.27,536.75,Unmatched,REF-4745,Generated for testing with variance in actual vs system balance.
+AR1065,2024-08-18,Asset Account,ACC-7335,42190.67,42828.11,637.44,Pending Review,REF-6968,Generated for testing with variance in actual vs system balance.
+AR1066,2024-07-11,Credit Account,ACC-6521,29270.89,29805.19,534.3,Pending Review,REF-0035,Generated for testing with variance in actual vs system balance.
+AR1067,2024-08-07,Equity Account,ACC-2355,22406.44,23020.6,614.16,Pending Review,REF-1026,Generated for testing with variance in actual vs system balance.
+AR1068,2024-07-08,Equity Account,ACC-6663,43976.54,43760.6,-215.94,Unmatched,REF-3272,Generated for testing with variance in actual vs system balance.
+AR1069,2024-05-01,Bank Account,ACC-7029,3048.93,2226.28,-822.65,Unmatched,REF-3787,Generated for testing with variance in actual vs system balance.
+AR1070,2024-06-16,Asset Account,ACC-0672,49676.45,49081.08,-595.37,Pending Review,REF-1791,Generated for testing with variance in actual vs system balance.
+AR1071,2024-09-04,Liability Account,ACC-0839,46936.4,47572.11,635.71,Unmatched,REF-3108,Generated for testing with variance in actual vs system balance.
+AR1072,2024-09-05,Liability Account,ACC-7888,13504.13,14008.26,504.13,Unmatched,REF-4594,Generated for testing with variance in actual vs system balance.
+AR1073,2024-07-21,Liability Account,ACC-5520,27751.72,28623.99,872.27,Unmatched,REF-9066,Generated for testing with variance in actual vs system balance.
+AR1074,2024-09-07,Equity Account,ACC-5491,32198.56,33183.28,984.72,Pending Review,REF-2575,Generated for testing with variance in actual vs system balance.
+AR1075,2024-01-20,Credit Account,ACC-9717,12804.86,13295.53,490.67,Unmatched,REF-5854,Generated for testing with variance in actual vs system balance.
+AR1076,2024-02-01,Credit Account,ACC-7968,46656.57,46582.11,-74.46,Unmatched,REF-5698,Generated for testing with variance in actual vs system balance.
+AR1077,2024-06-29,Bank Account,ACC-5352,4302.82,5159.32,856.5,Unmatched,REF-9202,Generated for testing with variance in actual vs system balance.
+AR1078,2024-08-10,Equity Account,ACC-0869,18023.42,18411.56,388.14,Pending Review,REF-6973,Generated for testing with variance in actual vs system balance.
+AR1079,2024-04-25,Bank Account,ACC-1096,18893.49,18827.75,-65.74,Matched,REF-3966,Generated for testing with variance in actual vs system balance.
+AR1080,2024-05-31,Bank Account,ACC-0054,31775.12,32550.05,774.93,Pending Review,REF-0104,Generated for testing with variance in actual vs system balance.
+AR1081,2024-01-04,Equity Account,ACC-3114,45675.52,45323.31,-352.21,Matched,REF-5758,Generated for testing with variance in actual vs system balance.
+AR1082,2024-07-31,Bank Account,ACC-4731,18621.67,17637.74,-983.93,Matched,REF-0658,Generated for testing with variance in actual vs system balance.
+AR1083,2024-05-14,Liability Account,ACC-1762,10075.33,10284.56,209.23,Matched,REF-9902,Generated for testing with variance in actual vs system balance.
+AR1084,2024-09-08,Equity Account,ACC-7583,2542.51,3310.04,767.53,Pending Review,REF-4844,Generated for testing with variance in actual vs system balance.
+AR1085,2024-08-13,Liability Account,ACC-4500,10560.51,10078.02,-482.49,Matched,REF-3648,Generated for testing with variance in actual vs system balance.
+AR1086,2024-02-28,Credit Account,ACC-2082,39020.92,38694.68,-326.24,Unmatched,REF-8974,Generated for testing with variance in actual vs system balance.
+AR1087,2024-07-26,Credit Account,ACC-0861,20050.76,19070.69,-980.07,Unmatched,REF-8277,Generated for testing with variance in actual vs system balance.
+AR1088,2024-01-26,Liability Account,ACC-4982,46540.3,47143.89,603.59,Matched,REF-8146,Generated for testing with variance in actual vs system balance.
+AR1089,2024-10-15,Equity Account,ACC-4671,10280.51,10352.8,72.29,Matched,REF-6506,Generated for testing with variance in actual vs system balance.
+AR1090,2024-07-21,Liability Account,ACC-9941,20443.0,19557.93,-885.07,Matched,REF-5110,Generated for testing with variance in actual vs system balance.
+AR1091,2024-01-04,Bank Account,ACC-8963,27189.03,27889.54,700.51,Matched,REF-2910,Generated for testing with variance in actual vs system balance.
+AR1092,2024-02-28,Bank Account,ACC-9446,21761.47,21154.56,-606.91,Matched,REF-6299,Generated for testing with variance in actual vs system balance.
+AR1093,2024-10-11,Bank Account,ACC-6502,12270.75,12180.63,-90.12,Matched,REF-1772,Generated for testing with variance in actual vs system balance.
+AR1094,2024-06-16,Liability Account,ACC-7900,37839.28,38267.93,428.65,Pending Review,REF-5286,Generated for testing with variance in actual vs system balance.
+AR1095,2024-08-16,Asset Account,ACC-2573,13836.75,12839.14,-997.61,Pending Review,REF-8152,Generated for testing with variance in actual vs system balance.
+AR1096,2024-10-22,Asset Account,ACC-4025,6971.6,7129.26,157.66,Pending Review,REF-6440,Generated for testing with variance in actual vs system balance.
+AR1097,2024-10-08,Credit Account,ACC-9907,21692.61,21828.38,135.77,Matched,REF-9773,Generated for testing with variance in actual vs system balance.
+AR1098,2024-01-18,Credit Account,ACC-6443,47394.52,46612.0,-782.52,Pending Review,REF-1746,Generated for testing with variance in actual vs system balance.
+AR1099,2024-01-16,Equity Account,ACC-8608,22214.25,22410.46,196.21,Unmatched,REF-6151,Generated for testing with variance in actual vs system balance.

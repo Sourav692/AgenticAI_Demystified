@@ -1,0 +1,51 @@
+DebitNoteID,Date,Vendor,Amount,ReferenceID,Reason,Status
+DN1000,2024-02-26,Fleet Rentals,676.08,REF-2001,Additional Charges,Settled
+DN1001,2024-05-03,OfficeMax,655.59,REF-2265,Additional Charges,Pending
+DN1002,2024-07-21,Fleet Rentals,2973.25,REF-6953,Additional Charges,Settled
+DN1003,2024-09-09,Stationery Supplies,4137.15,REF-1030,Price Adjustment,Settled
+DN1004,2024-10-24,OfficeMax,2743.28,REF-3614,Price Adjustment,Settled
+DN1005,2024-07-31,Tech Solutions Inc.,4195.87,REF-0227,Additional Charges,Issued
+DN1006,2024-01-05,OfficeMax,4630.79,REF-2715,Additional Charges,Settled
+DN1007,2024-05-29,OfficeMax,4522.3,REF-2925,Service Charge,Settled
+DN1008,2024-08-29,Tech Solutions Inc.,916.04,REF-6315,Additional Charges,Issued
+DN1009,2024-10-27,Tech Solutions Inc.,4028.18,REF-2385,Price Adjustment,Settled
+DN1010,2024-02-09,OfficeMax,3034.38,REF-7046,Price Adjustment,Pending
+DN1011,2024-10-09,OfficeMax,4348.47,REF-8460,Service Charge,Issued
+DN1012,2024-07-19,OfficeMax,1608.56,REF-8402,Additional Charges,Settled
+DN1013,2024-05-18,Tech Solutions Inc.,1179.93,REF-3202,Correction of Underpayment,Pending
+DN1014,2024-04-18,Stationery Supplies,517.86,REF-3790,Price Adjustment,Issued
+DN1015,2024-03-16,OfficeMax,4488.34,REF-2787,Price Adjustment,Settled
+DN1016,2024-09-20,Stationery Supplies,567.73,REF-2334,Additional Charges,Pending
+DN1017,2024-08-06,Tech Solutions Inc.,2143.3,REF-5887,Additional Charges,Settled
+DN1018,2024-03-21,Tech Solutions Inc.,161.99,REF-7560,Service Charge,Pending
+DN1019,2024-02-15,Fleet Rentals,1831.55,REF-8770,Additional Charges,Issued
+DN1020,2024-10-03,Tech Solutions Inc.,3504.23,REF-6143,Correction of Underpayment,Settled
+DN1021,2024-07-01,Tech Solutions Inc.,2473.21,REF-3148,Service Charge,Issued
+DN1022,2024-09-29,Tech Solutions Inc.,3169.96,REF-2767,Service Charge,Issued
+DN1023,2024-07-26,Stationery Supplies,422.64,REF-0668,Service Charge,Pending
+DN1024,2024-05-20,OfficeMax,4358.94,REF-8941,Correction of Underpayment,Issued
+DN1025,2024-09-26,Fleet Rentals,2391.02,REF-1171,Price Adjustment,Settled
+DN1026,2024-10-12,Tech Solutions Inc.,2748.36,REF-4907,Service Charge,Settled
+DN1027,2024-06-11,Stationery Supplies,1434.51,REF-6182,Service Charge,Pending
+DN1028,2024-05-15,Fleet Rentals,1952.68,REF-9325,Correction of Underpayment,Pending
+DN1029,2024-04-17,Tech Solutions Inc.,1028.69,REF-4729,Additional Charges,Settled
+DN1030,2024-08-20,Fleet Rentals,1919.16,REF-2899,Service Charge,Issued
+DN1031,2024-01-17,Stationery Supplies,4049.2,REF-9704,Price Adjustment,Issued
+DN1032,2024-08-04,Stationery Supplies,2458.59,REF-3500,Service Charge,Pending
+DN1033,2024-04-20,Fleet Rentals,3041.73,REF-4076,Correction of Underpayment,Issued
+DN1034,2024-02-18,Stationery Supplies,3770.03,REF-5369,Price Adjustment,Pending
+DN1035,2024-03-21,Tech Solutions Inc.,2530.49,REF-7953,Price Adjustment,Issued
+DN1036,2024-04-11,Tech Solutions Inc.,3970.3,REF-8063,Correction of Underpayment,Pending
+DN1037,2024-06-30,Stationery Supplies,2424.38,REF-0220,Price Adjustment,Settled
+DN1038,2024-10-28,Stationery Supplies,643.7,REF-5328,Service Charge,Settled
+DN1039,2024-06-24,Stationery Supplies,4466.73,REF-1234,Service Charge,Issued
+DN1040,2024-09-30,Tech Solutions Inc.,4682.0,REF-1728,Correction of Underpayment,Issued
+DN1041,2024-04-09,Fleet Rentals,1451.12,REF-6737,Additional Charges,Pending
+DN1042,2024-10-05,Stationery Supplies,4158.12,REF-8543,Correction of Underpayment,Issued
+DN1043,2024-09-05,Fleet Rentals,2061.22,REF-1221,Correction of Underpayment,Pending
+DN1044,2024-05-29,Stationery Supplies,4880.79,REF-0935,Additional Charges,Pending
+DN1045,2024-07-04,OfficeMax,3455.96,REF-3315,Service Charge,Issued
+DN1046,2024-03-02,Stationery Supplies,3581.85,REF-2267,Price Adjustment,Pending
+DN1047,2024-06-05,Stationery Supplies,2404.41,REF-0848,Service Charge,Settled
+DN1048,2024-02-12,Tech Solutions Inc.,561.75,REF-3168,Service Charge,Pending
+DN1049,2024-07-08,OfficeMax,4151.15,REF-4101,Service Charge,Issued

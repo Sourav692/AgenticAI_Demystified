@@ -1,0 +1,51 @@
+AssetID,AssetName,Category,PurchaseDate,Cost,UsefulLife,AccumulatedDepreciation,NetBookValue,DepreciationMethod,Location,Status
+FA1000,Office Equipment 1,Office Equipment,2024-07-03,22602.06,5,5368.02,17234.04,Straight-line,Remote Office,Active
+FA1001,Vehicles 2,Machinery,2022-09-04,14538.48,3,6313.76,8224.72,Declining Balance,Warehouse,Active
+FA1002,Machinery 3,Vehicles,2022-10-05,8181.81,10,1922.59,6259.22,Straight-line,Warehouse,Active
+FA1003,Machinery 4,Computers,2022-02-21,29957.7,3,12124.28,17833.42,Straight-line,Warehouse,Disposed
+FA1004,Office Equipment 5,Furniture,2024-01-22,24473.12,7,4912.33,19560.79,Straight-line,Head Office,Disposed
+FA1005,Furniture 6,Computers,2021-04-20,30444.52,3,13733.15,16711.37,Units of Production,Remote Office,Disposed
+FA1006,Vehicles 7,Machinery,2021-07-16,18804.06,10,8159.35,10644.71,Straight-line,Warehouse,Active
+FA1007,Machinery 8,Machinery,2019-11-08,19357.9,3,7928.4,11429.5,Units of Production,Warehouse,Disposed
+FA1008,Furniture 9,Machinery,2023-09-27,11927.95,3,5111.77,6816.18,Declining Balance,Warehouse,Active
+FA1009,Office Equipment 10,Machinery,2022-09-17,6595.1,5,1882.27,4712.83,Straight-line,Warehouse,Disposed
+FA1010,Computers 11,Machinery,2024-02-28,10117.98,5,1413.02,8704.96,Straight-line,Warehouse,Disposed
+FA1011,Office Equipment 12,Vehicles,2021-07-30,32646.86,10,3857.8,28789.06,Declining Balance,Remote Office,Disposed
+FA1012,Office Equipment 13,Computers,2023-04-11,41881.33,3,18387.96,23493.37,Declining Balance,Warehouse,Disposed
+FA1013,Office Equipment 14,Office Equipment,2020-04-04,14331.07,3,3708.16,10622.91,Straight-line,Remote Office,Active
+FA1014,Machinery 15,Computers,2021-07-14,45288.05,5,20995.18,24292.87,Straight-line,Head Office,Disposed
+FA1015,Office Equipment 16,Office Equipment,2024-10-04,41385.25,3,15045.28,26339.97,Units of Production,Head Office,Active
+FA1016,Computers 17,Furniture,2022-04-22,25716.9,5,11855.8,13861.1,Declining Balance,Head Office,Active
+FA1017,Computers 18,Vehicles,2023-12-20,31504.76,7,3290.5,28214.26,Straight-line,Warehouse,Disposed
+FA1018,Vehicles 19,Computers,2024-07-08,18196.32,3,6454.26,11742.06,Straight-line,Head Office,Disposed
+FA1019,Machinery 20,Computers,2024-03-17,35356.96,7,12099.32,23257.64,Straight-line,Warehouse,Active
+FA1020,Computers 21,Machinery,2024-07-08,34472.19,10,11969.16,22503.03,Units of Production,Warehouse,Disposed
+FA1021,Machinery 22,Office Equipment,2024-09-06,30220.38,7,10574.95,19645.43,Units of Production,Remote Office,Disposed
+FA1022,Vehicles 23,Computers,2021-08-13,31175.34,5,14497.16,16678.18,Declining Balance,Head Office,Active
+FA1023,Vehicles 24,Vehicles,2024-08-08,42668.86,7,5175.72,37493.14,Straight-line,Warehouse,Active
+FA1024,Vehicles 25,Machinery,2021-01-12,1820.78,5,699.13,1121.65,Straight-line,Remote Office,Active
+FA1025,Computers 26,Furniture,2020-03-14,18543.3,3,2987.02,15556.28,Straight-line,Remote Office,Active
+FA1026,Office Equipment 27,Machinery,2020-02-29,22693.97,5,9732.9,12961.07,Declining Balance,Head Office,Active
+FA1027,Machinery 28,Vehicles,2021-04-13,34677.83,7,4370.92,30306.91,Declining Balance,Warehouse,Disposed
+FA1028,Office Equipment 29,Office Equipment,2023-07-01,3040.74,3,365.7,2675.04,Declining Balance,Warehouse,Disposed
+FA1029,Computers 30,Furniture,2024-02-04,38679.23,3,7840.59,30838.64,Declining Balance,Warehouse,Disposed
+FA1030,Computers 31,Computers,2020-10-25,2583.37,7,1187.6,1395.77,Straight-line,Remote Office,Disposed
+FA1031,Office Equipment 32,Machinery,2020-02-11,38607.84,10,17097.44,21510.4,Units of Production,Head Office,Active
+FA1032,Vehicles 33,Computers,2022-11-01,33246.08,10,16005.91,17240.17,Declining Balance,Warehouse,Disposed
+FA1033,Office Equipment 34,Office Equipment,2021-02-13,41792.21,5,20532.03,21260.18,Units of Production,Warehouse,Active
+FA1034,Computers 35,Vehicles,2023-03-14,25244.54,3,7922.55,17321.99,Straight-line,Head Office,Disposed
+FA1035,Computers 36,Machinery,2020-03-17,10981.97,7,1189.7,9792.27,Declining Balance,Warehouse,Active
+FA1036,Computers 37,Furniture,2022-09-30,7389.81,3,1921.71,5468.1,Units of Production,Head Office,Disposed
+FA1037,Office Equipment 38,Machinery,2020-02-15,42425.63,3,10938.6,31487.03,Straight-line,Head Office,Active
+FA1038,Vehicles 39,Machinery,2020-06-05,4434.79,7,993.85,3440.94,Straight-line,Head Office,Active
+FA1039,Furniture 40,Office Equipment,2023-09-18,47604.81,3,11748.9,35855.91,Straight-line,Warehouse,Disposed
+FA1040,Office Equipment 41,Machinery,2020-02-28,42706.91,5,16597.69,26109.22,Units of Production,Remote Office,Active
+FA1041,Office Equipment 42,Machinery,2020-10-18,24332.54,5,10932.2,13400.34,Units of Production,Remote Office,Disposed
+FA1042,Machinery 43,Computers,2023-06-07,5871.74,5,1655.03,4216.71,Straight-line,Head Office,Disposed
+FA1043,Furniture 44,Machinery,2023-11-20,31723.27,10,3806.66,27916.61,Straight-line,Warehouse,Active
+FA1044,Machinery 45,Furniture,2022-02-27,21040.75,10,8341.59,12699.16,Units of Production,Head Office,Disposed
+FA1045,Computers 46,Computers,2020-06-01,40454.16,7,11956.43,28497.73,Declining Balance,Head Office,Active
+FA1046,Furniture 47,Machinery,2024-08-01,49079.18,3,18629.27,30449.91,Straight-line,Remote Office,Active
+FA1047,Office Equipment 48,Furniture,2022-06-02,11531.79,7,5586.47,5945.32,Units of Production,Head Office,Disposed
+FA1048,Machinery 49,Office Equipment,2020-02-21,43377.65,7,19551.89,23825.76,Declining Balance,Warehouse,Active
+FA1049,Vehicles 50,Computers,2023-10-11,1525.82,10,328.14,1197.68,Declining Balance,Warehouse,Active

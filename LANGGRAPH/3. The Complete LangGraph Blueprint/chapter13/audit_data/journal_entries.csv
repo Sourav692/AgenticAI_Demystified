@@ -1,0 +1,41 @@
+EntryID,Date,AccountCode,Debit,Credit,Description,ReferenceID,CreatedBy
+JE1000,2024-01-15,4020,345.25,0.00,"Initial deposit",REF-1234,jdoe
+JE1001,2024-02-20,5030,0.00,150.00,"Payment for supplies",REF-5678,asmith
+JE1002,2024-02-25,1040,500.00,0.00,"Client payment received",REF-7890,etaylor
+JE1003,2024-03-10,3050,0.00,200.00,"Service fee paid",REF-2345,mwilliams
+JE1004,2024-03-20,2060,1000.00,0.00,"Sales revenue",REF-6789,cjohnson
+JE1005,2024-04-05,5020,0.00,300.00,"Office rent paid",REF-8912,jdoe
+JE1006,2024-04-12,1045,700.00,0.00,"New client payment",REF-3456,asmith
+JE1007,2024-05-01,2090,200.00,0.00,"Interest income",REF-4567,etaylor
+JE1008,2024-05-10,4010,0.00,400.00,"Loan repayment",REF-7891,mwilliams
+JE1009,2024-05-15,5020,150.00,0.00,"Supply purchase",REF-2346,cjohnson
+JE1010,2024-06-01,1045,800.00,0.00,"Client settlement",REF-5679,jdoe
+JE1011,2024-06-05,5030,0.00,200.00,"Utilities paid",REF-7892,asmith
+JE1012,2024-06-15,2095,100.00,0.00,"Dividend income",REF-3457,etaylor
+JE1013,2024-07-01,4060,0.00,600.00,"Loan installment",REF-8913,mwilliams
+JE1014,2024-07-12,5025,0.00,250.00,"Office expenses",REF-2347,cjohnson
+JE1015,2024-07-20,1040,900.00,0.00,"Client project payment",REF-4568,jdoe
+JE1016,2024-08-01,3045,0.00,180.00,"Consulting fee",REF-7893,asmith
+JE1017,2024-08-05,2070,350.00,0.00,"Investment income",REF-5670,etaylor
+JE1018,2024-08-10,4090,0.00,500.00,"Mortgage payment",REF-3458,mwilliams
+JE1019,2024-08-15,5030,0.00,150.00,"Utilities cost",REF-7894,cjohnson
+JE1020,2024-09-01,1040,1000.00,0.00,"Client A payment",REF-2348,jdoe
+JE1021,2024-09-05,5030,0.00,100.00,"Office cleaning",REF-4569,asmith
+JE1022,2024-09-15,4015,0.00,450.00,"Loan interest",REF-5671,etaylor
+JE1023,2024-09-20,2065,500.00,0.00,"Product sales",REF-8914,mwilliams
+JE1024,2024-10-01,2090,0.00,300.00,"Insurance premium",REF-7895,cjohnson
+JE1025,2024-10-10,1045,850.00,0.00,"Consultancy payment",REF-5672,jdoe
+JE1026,2024-10-20,3045,0.00,150.00,"Legal fees",REF-2349,asmith
+JE1027,2024-10-25,2055,600.00,0.00,"Investment income",REF-4560,etaylor
+JE1028,2024-11-01,2095,0.00,450.00,"Mortgage interest",REF-5673,mwilliams
+JE1029,2024-11-05,4015,0.00,350.00,"Bank charges",REF-8905,cjohnson
+JE1030,2024-11-10,5020,200.00,0.00,"Office repairs",REF-8915,jdoe
+JE1031,2024-11-20,2090,0.00,300.00,"Subscription fee",REF-7896,asmith
+JE1032,2024-12-01,4010,400.00,0.00,"Rental income",REF-2340,etaylor
+JE1033,2024-12-10,5025,0.00,600.00,"Furniture expense",REF-4561,mwilliams
+JE1034,2024-12-15,2060,1000.00,0.00,"End-year bonus",REF-5674,cjohnson
+JE1035,2024-12-20,5020,0.00,150.00,"Office utilities",REF-8916,jdoe
+JE1036,2024-12-25,2090,0.00,250.00,"Bank interest",REF-7897,asmith
+JE1037,2024-12-31,1040,1200.00,0.00,"Final project payment",REF-2341,etaylor
+JE1038,2024-12-31,5030,0.00,300.00,"Final utility bill",REF-4562,mwilliams
+JE1039,2024-12-31,2095,0.00,500.00,"Year-end adjustments",REF-5675,cjohnson

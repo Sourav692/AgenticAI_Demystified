@@ -1,0 +1,5 @@
+ConfirmationID,CreditCardID,BankName,DateConfirmed,Balance,ReferenceID,Status,Notes
+CC2000,CC1,Bank of America,2024-10-07,8734.37,REF-7550,Disputed,Pending clarification.
+CC2001,CC2,Chase Bank,2024-10-15,5898.17,REF-6727,Confirmed,Credit card balance confirmed by bank
+CC2002,CC3,Wells Fargo,2024-08-28,16469.22,REF-8377,Confirmed,Credit card balance confirmed by bank
+CC2003,CC4,Citibank,2024-01-15,18566.92,REF-2707,Confirmed,Credit card balance confirmed by bank

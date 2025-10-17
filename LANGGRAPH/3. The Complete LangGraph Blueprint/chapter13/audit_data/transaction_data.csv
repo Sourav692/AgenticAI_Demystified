@@ -1,0 +1,51 @@
+TransactionID,Date,DocumentType,Description,Amount,Currency,AccountCode,Vendor,Customer,ReferenceID,TransactionStatus,PaymentMethod,TransactionType,Category,Subcategory
+T1000,2024-03-27,Payment,Control enjoy show fact realize economic.,795.79,USD,5887,,Hood and Sons,Pfu-7766,Completed,Bank Transfer,Expense,Office Supplies,Audit
+T1001,2024-07-05,Payment,Very wide wear.,4903.75,KES,1517,,Schwartz-Espinoza,Mcf-4983,Pending,Mobile Payment,Expense,Office Supplies,Subscription
+T1002,2024-06-17,Credit Note,Marriage cut receive blood common.,2676.22,KES,2372,,Hayes-Benson,kWx-7419,Failed,Credit Card,Refund,Consulting,Customer Payment
+T1003,2024-10-30,Payment,Social woman human plan.,2431.21,KES,7437,,Hamilton PLC,jFK-8820,Failed,Cash,Income,Consulting,Flight
+T1004,2024-04-09,Payment,Way central difficult reach individual.,3304.05,EUR,3211,,Nunez Ltd,jzV-7337,Completed,Bank Transfer,Income,Office Supplies,Stationery
+T1005,2024-09-16,Receipt,Walk account official cold someone drive.,4162.89,KES,8192,,"Cain, Daniels and Brown",XAD-9244,Pending,Bank Transfer,Refund,Client Payments,Stationery
+T1006,2024-07-14,Invoice,Throw their spring keep.,4805.97,USD,6791,Garcia and Sons,,LQX-6643,Pending,Bank Transfer,Expense,Software,Flight
+T1007,2024-03-29,Credit Note,Car also artist have.,4051.06,USD,4093,,Allen Inc,kjw-9191,Pending,Mobile Payment,Refund,Consulting,Stationery
+T1008,2024-10-17,Credit Note,Machine Congress surface.,2153.56,USD,7195,,Smith Inc,cYm-0661,Failed,Cash,Income,Travel,Customer Payment
+T1009,2024-08-21,Payment,Wrong knowledge effort attention present ability.,2327.44,KES,4189,,Winters-Novak,EuV-5801,Reversed,Credit Card,Refund,Software,Subscription
+T1010,2024-08-10,Credit Note,Issue step claim national.,1375.81,EUR,4478,,"Fuller, Davis and Horne",vnb-2539,Reversed,Bank Transfer,Income,Travel,Customer Payment
+T1011,2024-05-11,Credit Note,Choose trouble indicate impact position reality.,3541.64,USD,8718,,"Cochran, Davenport and Baker",jWU-9542,Reversed,Mobile Payment,Refund,Software,Stationery
+T1012,2024-10-31,Debit Note,Wear truth hit glass.,2645.08,KES,3479,Klein Ltd,,Kff-9921,Completed,Mobile Payment,Refund,Travel,Flight
+T1013,2024-09-03,Payment,Town she step three.,3890.51,USD,3105,,Key Ltd,dtz-7359,Reversed,Credit Card,Income,Client Payments,Subscription
+T1014,2024-01-02,Invoice,Tough social off trial loss.,2238.77,EUR,6222,Stewart Inc,,zAs-5984,Completed,Credit Card,Refund,Software,Customer Payment
+T1015,2024-11-01,Invoice,Us mission place.,4795.56,USD,3078,Burke and Sons,,geM-2165,Reversed,Mobile Payment,Refund,Software,Audit
+T1016,2024-08-12,Debit Note,Effort to career.,1278.49,KES,9258,Hart and Sons,,EiC-4981,Completed,Mobile Payment,Expense,Office Supplies,Customer Payment
+T1017,2024-03-16,Debit Note,War step home contain dinner.,3821.62,EUR,1192,Rodriguez PLC,,PoT-8349,Reversed,Bank Transfer,Expense,Travel,Customer Payment
+T1018,2024-05-18,Invoice,History case about ever right.,3067.91,KES,4675,"Frey, Trevino and Lamb",,FfR-5273,Completed,Cash,Refund,Consulting,Stationery
+T1019,2024-03-31,Invoice,Administration ground art score than bit.,765.95,KES,3003,Atkins-Cobb,,EGh-2525,Pending,Credit Card,Expense,Software,Stationery
+T1020,2024-04-26,Payment,Field else national ahead notice.,108.77,USD,8972,,Adkins PLC,CPJ-8782,Completed,Cash,Income,Software,Subscription
+T1021,2024-10-21,Invoice,Week avoid lot general across for.,4434.04,KES,8194,Ryan and Sons,,rVQ-6959,Reversed,Credit Card,Refund,Client Payments,Audit
+T1022,2024-02-27,Receipt,Total sing among personal cut trip.,799.81,KES,5684,,"Chung, Jensen and Fox",yjA-5443,Failed,Credit Card,Income,Consulting,Stationery
+T1023,2024-05-22,Payment,Sense civil would within way seem.,3357.0,KES,3554,,Bell-Moore,NqI-2624,Failed,Bank Transfer,Income,Consulting,Audit
+T1024,2024-02-25,Invoice,Suffer training describe senior.,853.52,USD,1477,Ortega-Mcdonald,,AlO-3755,Pending,Bank Transfer,Expense,Office Supplies,Subscription
+T1025,2024-05-21,Receipt,Common president general.,1979.45,USD,2637,,Lowe-Foster,uJe-2207,Pending,Credit Card,Expense,Office Supplies,Flight
+T1026,2024-03-02,Invoice,Democrat blue direction he staff maintain.,1865.83,KES,3762,"Kim, Lee and Jenkins",,NAi-6834,Pending,Cash,Expense,Consulting,Stationery
+T1027,2024-06-06,Debit Note,Respond generation direction laugh.,2565.44,USD,9156,Stewart PLC,,MRh-5591,Completed,Credit Card,Income,Client Payments,Audit
+T1028,2024-10-21,Credit Note,Large even attention house apply.,1726.16,EUR,6413,,Castro Group,TEs-6718,Pending,Bank Transfer,Refund,Travel,Audit
+T1029,2024-10-20,Invoice,Husband out on.,3872.29,USD,9604,Johnson-Romero,,cfY-4632,Completed,Mobile Payment,Income,Office Supplies,Subscription
+T1030,2024-07-23,Receipt,Whole strong its attention weight.,1170.11,USD,9204,,Wiggins PLC,UdX-3825,Reversed,Credit Card,Income,Consulting,Subscription
+T1031,2024-01-30,Receipt,Mind think discussion change.,1979.71,USD,8363,,Miller LLC,xYU-0765,Reversed,Cash,Expense,Software,Audit
+T1032,2024-07-23,Debit Note,Determine hair while.,1382.49,USD,2372,Suarez-Lambert,,yZe-0911,Failed,Bank Transfer,Income,Travel,Audit
+T1033,2024-03-10,Invoice,Site child suddenly.,4430.87,KES,1404,Taylor PLC,,wPX-1245,Reversed,Credit Card,Refund,Travel,Subscription
+T1034,2024-09-05,Receipt,Page year woman.,4348.2,USD,1828,,Fuller Inc,HBT-9271,Reversed,Cash,Expense,Client Payments,Audit
+T1035,2024-09-26,Receipt,Next public debate.,2564.55,USD,3806,,Chan-Richardson,akK-0880,Pending,Mobile Payment,Income,Client Payments,Audit
+T1036,2024-04-18,Payment,Respond should around late second because.,1351.01,USD,1786,,Burgess-Nelson,qZU-4848,Pending,Cash,Income,Client Payments,Flight
+T1037,2024-05-15,Invoice,Test for study much.,3415.87,EUR,4314,Miles-Gonzalez,,RRH-4325,Pending,Mobile Payment,Expense,Software,Customer Payment
+T1038,2024-04-09,Receipt,Best record morning choice look others.,3341.14,EUR,8365,,Rivera Ltd,vsp-4388,Pending,Bank Transfer,Refund,Client Payments,Customer Payment
+T1039,2024-09-16,Invoice,Chance operation middle interview first.,2843.32,EUR,8989,Butler-Burch,,qnt-3394,Failed,Credit Card,Expense,Travel,Subscription
+T1040,2024-08-12,Payment,Police film majority.,2964.01,KES,3159,,Martin-Bailey,ald-0164,Pending,Cash,Income,Travel,Customer Payment
+T1041,2024-09-25,Receipt,Wife face condition.,4308.13,USD,8135,,"Watkins, Thomas and Baird",EGb-6064,Failed,Credit Card,Expense,Consulting,Audit
+T1042,2024-08-01,Credit Note,Tax notice executive.,2944.5,EUR,5421,,Chavez-Contreras,TUU-3243,Completed,Bank Transfer,Expense,Client Payments,Stationery
+T1043,2024-03-26,Debit Note,Language however end.,4316.1,KES,7039,Shelton-Jones,,pIg-2910,Reversed,Bank Transfer,Expense,Travel,Flight
+T1044,2024-04-24,Receipt,Interview paper both professor most according.,1066.78,EUR,8570,,Greene Group,LzW-8576,Completed,Bank Transfer,Expense,Consulting,Audit
+T1045,2024-04-16,Payment,Set control defense financial.,3150.57,KES,9821,,"Simon, Griffith and Cordova",ZlF-5321,Completed,Mobile Payment,Income,Travel,Customer Payment
+T1046,2024-02-24,Credit Note,Against side develop still walk.,1380.75,KES,6315,,Osborne-Ruiz,gbm-7886,Pending,Bank Transfer,Refund,Consulting,Stationery
+T1047,2024-09-29,Credit Note,Probably decide our first understand figure.,1772.78,EUR,4903,,Rhodes-Hurley,ZHN-6733,Reversed,Mobile Payment,Expense,Office Supplies,Audit
+T1048,2024-01-04,Payment,Mention skin yes them cell.,4740.54,EUR,6023,,Mathis and Sons,kJI-1683,Pending,Mobile Payment,Expense,Software,Flight
+T1049,2024-06-29,Payment,Worry green along important security.,2672.31,EUR,4300,,"Scott, Downs and Palmer",DnV-0233,Completed,Mobile Payment,Refund,Office Supplies,Subscription
