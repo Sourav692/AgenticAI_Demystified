@@ -487,11 +487,6 @@ class LangGraphResponsesAgent(ResponsesAgent):
         filtered = {k: v for k, v in message.items() if k in compatible_keys}
         return [filtered] if filtered else []
 
-    def _prep_msgs_for_cc_llm(self, responses_input) -> list[dict[str, Any]]:
-        "Convert from Responses input items to ChatCompletion dictionaries"
-        cc_msgs = []
-        for msg in responses_input:
-            cc_msgs.extend(self._responses_to_cc(msg.model_dump()))
 
     def _langchain_to_responses(self, messages: list[dict[str, Any]]) -> list[dict[str, Any]]:
         "Convert from ChatCompletion dict to Responses output item dictionaries"
@@ -545,7 +540,7 @@ class LangGraphResponsesAgent(ResponsesAgent):
         for event in self.agent.stream({"customer_query": cc_msgs}, stream_mode=["updates", "messages"]):
             if event[0] == "updates":
                 for node_data in event[1].values():
-                    for item in self._langchain_to_responses(node_data["customer_query"]):
+                    for item in self._langchain_to_responses(node_data["messages"]):
                         yield ResponsesAgentStreamEvent(type="response.output_item.done", item=item)
             # filter the streamed messages to just the generated text messages
             elif event[0] == "messages":
