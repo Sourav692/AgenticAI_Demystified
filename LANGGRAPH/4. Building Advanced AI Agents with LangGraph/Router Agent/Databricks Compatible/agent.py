@@ -438,7 +438,7 @@ def create_router_agent():
 
     # Compile the graph into a runnable agent
     memory = MemorySaver()
-    compiled_support_agent = customer_support_graph.compile(checkpointer=memory)
+    compiled_support_agent = customer_support_graph.compile()
     return compiled_support_agent
 
 ###############################################################################
@@ -542,10 +542,10 @@ class LangGraphResponsesAgent(ResponsesAgent):
         for msg in request.input:
             cc_msgs.extend(self._responses_to_cc(msg.model_dump()))
 
-        for event in self.agent.stream({"messages": cc_msgs}, stream_mode=["updates", "messages"]):
+        for event in self.agent.stream({"customer_query": cc_msgs}, stream_mode=["updates", "messages"]):
             if event[0] == "updates":
                 for node_data in event[1].values():
-                    for item in self._langchain_to_responses(node_data["messages"]):
+                    for item in self._langchain_to_responses(node_data["customer_query"]):
                         yield ResponsesAgentStreamEvent(type="response.output_item.done", item=item)
             # filter the streamed messages to just the generated text messages
             elif event[0] == "messages":
