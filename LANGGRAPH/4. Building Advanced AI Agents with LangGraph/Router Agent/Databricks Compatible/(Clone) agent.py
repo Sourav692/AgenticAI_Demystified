@@ -1,22 +1,25 @@
 ##########################################################
 # Initial Imports
 ##########################################################
+import os
 from databricks.vector_search.client import VectorSearchClient
 from langchain_core.documents import Document
-from typing import List, TypedDict, Literal
+from typing import List,Dict,TypedDict, Literal
 from pydantic import BaseModel
 from langchain_core.prompts import ChatPromptTemplate
 from langgraph.graph import StateGraph, END
 from langgraph.checkpoint.memory import MemorySaver
-from databricks_langchain import ChatDatabricks
+from databricks_langchain import ChatDatabricks, UCFunctionToolkit, VectorSearchRetrieverTool
+from langgraph.graph import StateGraph, END
+from langgraph.checkpoint.memory import MemorySaver
 from mlflow.pyfunc import ResponsesAgent
 from mlflow.types.responses import (
     ResponsesAgentRequest,
     ResponsesAgentResponse,
     ResponsesAgentStreamEvent,
 )
-import mlflow
 from typing import Annotated, Any, Generator, Optional, Sequence, Union
+import mlflow
 
 ###########################################################
 # Initial Variables Declaration
@@ -148,7 +151,7 @@ def generate_technical_response(support_state: CustomerSupportState) -> Customer
     if categorized_topic.lower() == "technical":
         # Perform retrieval from VectorDB
         results = index.similarity_search(
-                query_text=query,
+                query_text="what is your refund policy?",
                 columns=["content","category"],  # Ensure only columns present in the index are listed
                 num_results=3,
                 filters={"category": ["technical"]},
@@ -187,6 +190,59 @@ def generate_technical_response(support_state: CustomerSupportState) -> Customer
     # Update and return the modified support state
     return {
         "final_response": tech_reply
+    }
+
+def generate_billing_response(support_state: CustomerSupportState) -> CustomerSupportState:
+    """
+    Provide a billing support response by combining knowledge from the vector store and LLM.
+    """
+    # Retrieve category and ensure it is lowercase for metadata filtering
+    categorized_topic = support_state["query_category"]
+    query = support_state["customer_query"]
+
+    # Use metadata filter for 'billing' queries
+    if categorized_topic.lower() == "billing":
+        # Perform retrieval from VectorDB
+        results = index.similarity_search(
+                query_text="what is your refund policy?",
+                columns=["content","category"],  # Ensure only columns present in the index are listed
+                num_results=3,
+                filters={"category": ["billing"]},
+                query_type="hybrid"
+            )
+        relevant_docs = convert_vector_search_to_documents(results)
+        retrieved_content = "\n\n".join(doc.page_content for doc in relevant_docs)
+
+        # Combine retrieved information into the prompt
+        prompt = ChatPromptTemplate.from_template(
+            """
+            Craft a clear and detailed billing support response for the following customer query.
+            Use the provided knowledge base information to enrich your response.
+            In case there is no knowledge base information or you do not know the answer just say:
+
+            Apologies I was not able to answer your question, please reach out to +1-xxx-xxxx
+
+            Customer Query:
+            {customer_query}
+
+            Relevant Knowledge Base Information:
+            {retrieved_content}
+            """
+        )
+
+        # Generate the final response using the LLM
+        chain = prompt | llm
+        billing_reply = chain.invoke({
+            "customer_query": query,
+            "retrieved_content": retrieved_content
+        }).content
+    else:
+        # For non-billing queries, provide a default response or a general handling
+        billing_reply = "Apologies I was not able to answer your question, please reach out to +1-xxx-xxxx"
+
+    # Update and return the modified support state
+    return {
+        "final_response": billing_reply
     }
     
 def generate_billing_response(support_state: CustomerSupportState) -> CustomerSupportState:
@@ -254,7 +310,7 @@ def generate_general_response(support_state: CustomerSupportState) -> CustomerSu
     if categorized_topic.lower() == "general":
         # Perform retrieval from VectorDB
         results = index.similarity_search(
-                query_text=query,
+                query_text="what is your refund policy?",
                 columns=["content","category"],  # Ensure only columns present in the index are listed
                 num_results=3,
                 filters={"category": ["general"]},
