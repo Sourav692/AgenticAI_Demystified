@@ -451,6 +451,7 @@ class LangGraphResponsesAgent(ResponsesAgent):
     def _responses_to_cc(self, message: dict[str, Any]) -> list[dict[str, Any]]:
         """Convert from a Responses API output item to ChatCompletion messages."""
         msg_type = message.get("type")
+        print(f"Message type: {msg_type}")
         if msg_type == "function_call":
             return [
                 {
@@ -520,6 +521,8 @@ class LangGraphResponsesAgent(ResponsesAgent):
                 ]
             elif role == "user":
                 return [message]
+            else:
+                return [message]
 
     def predict(self, request: ResponsesAgentRequest) -> ResponsesAgentResponse:
         outputs = [
@@ -537,10 +540,11 @@ class LangGraphResponsesAgent(ResponsesAgent):
         for msg in request.input:
             cc_msgs.extend(self._responses_to_cc(msg.model_dump()))
 
-        for event in self.agent.stream({"customer_query": cc_msgs}, stream_mode=["updates", "messages"]):
+        for event in self.agent.stream({"customer_query": cc_msgs}, stream_mode=["values"]):
             if event[0] == "updates":
                 for node_data in event[1].values():
-                    for item in self._langchain_to_responses(node_data["messages"]):
+                    print(node_data)
+                    for item in self._langchain_to_responses(node_data.get('final_response', [])):
                         yield ResponsesAgentStreamEvent(type="response.output_item.done", item=item)
             # filter the streamed messages to just the generated text messages
             elif event[0] == "messages":
