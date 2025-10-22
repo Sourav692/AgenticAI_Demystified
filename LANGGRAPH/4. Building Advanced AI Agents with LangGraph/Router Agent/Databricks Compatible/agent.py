@@ -1,22 +1,38 @@
 ##########################################################
 # Initial Imports
 ##########################################################
+import os
 from databricks.vector_search.client import VectorSearchClient
 from langchain_core.documents import Document
-from typing import List, TypedDict, Literal
+from typing import List,Dict,TypedDict, Literal
 from pydantic import BaseModel
 from langchain_core.prompts import ChatPromptTemplate
 from langgraph.graph import StateGraph, END
 from langgraph.checkpoint.memory import MemorySaver
-from databricks_langchain import ChatDatabricks
+from databricks_langchain import ChatDatabricks, UCFunctionToolkit, VectorSearchRetrieverTool
+from langgraph.graph import StateGraph, END
+from langgraph.checkpoint.memory import MemorySaver
 from mlflow.pyfunc import ResponsesAgent
 from mlflow.types.responses import (
     ResponsesAgentRequest,
     ResponsesAgentResponse,
     ResponsesAgentStreamEvent,
 )
-import mlflow
 from typing import Annotated, Any, Generator, Optional, Sequence, Union
+import mlflow
+
+from langchain_core.messages import (
+    AIMessage,
+    AIMessageChunk,
+    BaseMessage,
+    convert_to_openai_messages,
+    HumanMessage,
+    SystemMessage,
+    RemoveMessage,
+    trim_messages,
+)
+from uuid import uuid4  # ⬅️ ADD THIS LINE
+import json  # ⬅️ ADD THIS TOO (if not already present)
 
 ###########################################################
 # Initial Variables Declaration
@@ -58,7 +74,7 @@ class CustomerSupportState(TypedDict):
     customer_query: str
     query_category: str
     query_sentiment: str
-    final_response: str
+    messages: str
 
 class QueryCategory(BaseModel):
     categorized_topic: Literal['Technical', 'Billing', 'General']
@@ -186,7 +202,7 @@ def generate_technical_response(support_state: CustomerSupportState) -> Customer
 
     # Update and return the modified support state
     return {
-        "final_response": tech_reply
+        "messages": tech_reply
     }
     
 def generate_billing_response(support_state: CustomerSupportState) -> CustomerSupportState:
@@ -239,7 +255,7 @@ def generate_billing_response(support_state: CustomerSupportState) -> CustomerSu
 
     # Update and return the modified support state
     return {
-        "final_response": billing_reply
+        "messages": billing_reply
     }
 
 def generate_general_response(support_state: CustomerSupportState) -> CustomerSupportState:
@@ -292,9 +308,7 @@ def generate_general_response(support_state: CustomerSupportState) -> CustomerSu
         general_reply = "Apologies I was not able to answer your question, please reach out to +1-xxx-xxxx"
 
     # Update and return the modified support state
-    return {
-        "final_response": general_reply
-    }
+    return {"messages": general_reply}
 
 def escalate_to_human_agent(support_state: CustomerSupportState) -> CustomerSupportState:
     """
@@ -302,7 +316,7 @@ def escalate_to_human_agent(support_state: CustomerSupportState) -> CustomerSupp
     """
 
     return {
-        "final_response": "Apologies, we are really sorry! Someone from our team will be reaching out to your shortly!"
+        "messages": "Apologies, we are really sorry! Someone from our team will be reaching out to your shortly!"
     }
 
 def determine_route(support_state: CustomerSupportState) -> str:
@@ -480,26 +494,69 @@ class LangGraphResponsesAgent(ResponsesAgent):
         self,
         request: ResponsesAgentRequest,
     ) -> Generator[ResponsesAgentStreamEvent, None, None]:
-        cc_msgs = []
-        for msg in request.input:
-            cc_msgs.extend(self._responses_to_cc(msg.model_dump()))
+        """Handle streaming predictions"""
+        try:
+            # print(f"🔄 Streaming request received")
+            # print(f"Type of request is {type(request)}")
+            
+            # Convert request to chat completion format
+            cc_msgs = []
+            for msg in request.input:
+                cc_msgs.extend(self._responses_to_cc(msg.model_dump()))
+            
+            # print(f"chat completion msg is {cc_msgs}")
+            # print(f"Type of chat_completion msg is {type(cc_msgs)}")
+            
+            # Extract user message
+            msg = cc_msgs[0]["content"]
+            # print(f"🔍 Processing query: {msg}")
+            
+            # Stream through the agent execution
+            final_state = None
+            for event in self.agent.stream({"customer_query": msg}, stream_mode=["values"]):
+                # Event is a tuple: ('values', state_dict)
+                if isinstance(event, tuple) and event[0] == "values":
+                    final_state = event[1]  # Extract the actual state dictionary
+                    print(f"📊 State update: {list(final_state.keys())}")
+            
+            # print(f"🎯 Final state: {final_state}")
+            
+            # After streaming completes, yield the final response
+            if final_state and "messages" in final_state and final_state["messages"]:
+                response_text = final_state["messages"]
+                # print(f"✅ Yielding response: {response_text[:100]}...")
+                
+                yield ResponsesAgentStreamEvent(
+                    type="response.output_item.done",
+                    item=self.create_text_output_item(
+                        text=response_text,
+                        id=str(uuid4())
+                    )
+                )
+            else:
+                # print(f"⚠️ No valid response in final state")
+                yield ResponsesAgentStreamEvent(
+                    type="response.output_item.done",
+                    item=self.create_text_output_item(
+                        text="No response generated",
+                        id=str(uuid4())
+                    )
+                )
+                
+        except Exception as e:
+            # print(f"❌ Error in predict_stream: {str(e)}")
+            import traceback
+            traceback.print_exc()
+            
+            yield ResponsesAgentStreamEvent(
+                type="response.output_item.done",
+                item=self.create_text_output_item(
+                    text=f"Error processing request: {str(e)}",
+                    id=str(uuid4())
+                )
+            )
 
-        for event in self.agent.stream({"customer_query": cc_msgs}, stream_mode=["values"]):
-            if event[0] == "updates":
-                for node_data in event[1].values():
-                    print(node_data)
-                    for item in self._langchain_to_responses(node_data.get('final_response', [])):
-                        yield ResponsesAgentStreamEvent(type="response.output_item.done", item=item)
-            # filter the streamed messages to just the generated text messages
-            elif event[0] == "messages":
-                try:
-                    chunk = event[1][0]
-                    if isinstance(chunk, AIMessageChunk) and (content := chunk.content):
-                        yield ResponsesAgentStreamEvent(
-                            **self.create_text_delta(delta=content, item_id=chunk.id),
-                        )
-                except Exception as e:
-                    print(e)
+
 
 # Create the agent object, and specify it as the agent object to use when
 # loading the agent back for inference via mlflow.models.set_model()
