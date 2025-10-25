@@ -1,0 +1,182 @@
+[    
+    {
+        "text": "Question: How do I integrate your AI product with my existing CRM system? Answer: You can integrate our AI product with your CRM using our API. Refer to the API documentation available on our website for step-by-step guidance.",
+        "metadata": {
+            "category": "technical"
+        }
+    },
+    {
+        "text": "Question: What programming languages are supported by your SDK? Answer: Our SDK supports Python, Java, and JavaScript. Additional language support is planned for future updates.",
+        "metadata": {
+            "category": "technical"
+        }
+    },
+    {
+        "text": "Question: Can your AI models run on-premise? Answer: Yes, our AI models can be deployed on-premise. We provide deployment guides for various environments.",
+        "metadata": {
+            "category": "technical"
+        }
+    },
+    {
+        "text": "Question: Does your hardware support edge AI applications? Answer: Yes, our hardware is optimized for edge AI, with low-latency processing and energy-efficient designs.",
+        "metadata": {
+            "category": "technical"
+        }
+    },
+    {
+        "text": "Question: How do I troubleshoot issues with model performance? Answer: Start by reviewing the logs, checking resource utilization, and validating input data quality. You can also reach out to support for assistance.",
+        "metadata": {
+            "category": "technical"
+        }
+    },
+    {
+        "text": "Question: Can I fine-tune your AI models? Answer: Yes, our platform supports model fine-tuning using your custom datasets.",
+        "metadata": {
+            "category": "technical"
+        }
+    },
+    {
+        "text": "Question: What are the hardware requirements for running your AI solutions? Answer: Our AI solutions require a minimum of 16GB RAM, an Intel Core i7 processor, and an NVIDIA RTX 3060 GPU for optimal performance.",
+        "metadata": {
+            "category": "technical"
+        }
+    },
+    {
+        "text": "Question: Do you provide pre-trained models? Answer: Yes, we offer a range of pre-trained models for various use cases such as NLP, computer vision, and recommendation systems.",
+        "metadata": {
+            "category": "technical"
+        }
+    },
+    {
+        "text": "Question: How do I update the firmware on your hardware products? Answer: Firmware updates can be applied through the companion app or the firmware update tool available on our website.",
+        "metadata": {
+            "category": "technical"
+        }
+    },
+    {
+        "text": "Question: Is your product compatible with Kubernetes for deployment? Answer: Yes, our platform provides Kubernetes deployment templates and Helm charts for easy setup.",
+        "metadata": {
+            "category": "technical"
+        }
+    },
+    {
+        "text": "Question: How can I get a detailed invoice for my purchase? Answer: You can download a detailed invoice from your account dashboard under the 'Billing' section.",
+        "metadata": {
+            "category": "billing"
+        }
+    },
+    {
+        "text": "Question: Do you offer any discounts for annual subscriptions? Answer: Yes, we offer a 10% discount on annual subscriptions compared to monthly billing. You can select this option during checkout.",
+        "metadata": {
+            "category": "billing"
+        }
+    },
+    {
+        "text": "Question: Can I change my subscription plan mid-cycle? Answer: Yes, you can upgrade or downgrade your subscription plan at any time from the account dashboard. Charges will be prorated.",
+        "metadata": {
+            "category": "billing"
+        }
+    },
+    {
+        "text": "Question: What payment methods do you accept? Answer: We accept credit cards, PayPal, and wire transfers for corporate accounts.",
+        "metadata": {
+            "category": "billing"
+        }
+    },
+    {
+        "text": "Question: Do you provide refunds for unused subscription periods? Answer: Refunds are provided based on our refund policy. Please refer to our Terms and Conditions for more details.",
+        "metadata": {
+            "category": "billing"
+        }
+    },
+    {
+        "text": "Question: Can I receive a consolidated bill for multiple accounts? Answer: Yes, we offer consolidated billing for enterprise customers. Please contact sales to enable this feature.",
+        "metadata": {
+            "category": "billing"
+        }
+    },
+    {
+        "text": "Question: How do I update my billing information? Answer: You can update your billing information from the 'Billing' section in your account dashboard.",
+        "metadata": {
+            "category": "billing"
+        }
+    },
+    {
+        "text": "Question: Are there any additional fees apart from the subscription cost? Answer: There are no hidden fees. However, additional services like premium support may incur extra charges.",
+        "metadata": {
+            "category": "billing"
+        }
+    },
+    {
+        "text": "Question: Can I get a quote for budgeting purposes? Answer: Yes, you can request a custom quote by contacting our sales team.",
+        "metadata": {
+            "category": "billing"
+        }
+    },
+    {
+        "text": "Question: Do you charge taxes on the subscription? Answer: Applicable taxes are calculated based on your location and displayed during checkout.",
+        "metadata": {
+            "category": "billing"
+        }
+    },
+    {
+        "text": "Question: What are your working hours? Answer: Our support team is available from 9:00 AM to 6:00 PM, Monday to Friday.",
+        "metadata": {
+            "category": "general"
+        }
+    },
+    {
+        "text": "Question: What is your refund policy? Answer: We offer a 30-day money-back guarantee for all our products. Please contact support to initiate a refund.",
+        "metadata": {
+            "category": "general"
+        }
+    },
+    {
+        "text": "Question: What is your shipping policy for hardware products? Answer: We provide free shipping for orders above $500. For orders below $500, a flat shipping fee of $20 applies. Shipping typically takes 5-7 business days.",
+        "metadata": {
+            "category": "general"
+        }
+    },
+    {
+        "text": "Question: How do I contact customer support? Answer: You can contact our support team via email at support@example.com or call us at 1-800-123-4567.",
+        "metadata": {
+            "category": "general"
+        }
+    },
+    {
+        "text": "Question: Do you provide training for your AI products? Answer: Yes, we provide free online tutorials and offer paid instructor-led training sessions.",
+        "metadata": {
+            "category": "general"
+        }
+    },
+    {
+        "text": "Question: Where can I find user manuals for your hardware products? Answer: User manuals are available on our website under the 'Support' section.",
+        "metadata": {
+            "category": "general"
+        }
+    },
+    {
+        "text": "Question: Can I try your software before purchasing? Answer: Yes, we offer a 14-day free trial for our software products. Visit our website to sign up.",
+        "metadata": {
+            "category": "general"
+        }
+    },
+    {
+        "text": "Question: How do I escalate an unresolved issue? Answer: You can escalate unresolved issues by emailing our escalation team at escalations@example.com.",
+        "metadata": {
+            "category": "general"
+        }
+    },
+    {
+        "text": "Question: Do you have a reseller program? Answer: Yes, we have a reseller program. Please contact our sales team for details.",
+        "metadata": {
+            "category": "general"
+        }
+    },
+    {
+        "text": "Question: What is your policy for handling damaged hardware deliveries? Answer: If you receive damaged hardware, please report it within 48 hours to our support team. We will arrange for a replacement.",
+        "metadata": {
+            "category": "general"
+        }
+    }
+]
