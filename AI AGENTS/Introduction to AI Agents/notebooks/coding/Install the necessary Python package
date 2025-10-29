@@ -1,0 +1,2 @@
+# Install the necessary Python package
+pip install -qqq yfinance matplotlib
