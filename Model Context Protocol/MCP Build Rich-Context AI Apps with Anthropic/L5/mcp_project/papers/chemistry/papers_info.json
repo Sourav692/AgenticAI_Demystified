@@ -1,0 +1,66 @@
+{
+  "2412.19994v1": {
+    "title": "From Generalist to Specialist: A Survey of Large Language Models for Chemistry",
+    "authors": [
+      "Yang Han",
+      "Ziping Wan",
+      "Lu Chen",
+      "Kai Yu",
+      "Xin Chen"
+    ],
+    "summary": "Large Language Models (LLMs) have significantly transformed our daily life\nand established a new paradigm in natural language processing (NLP). However,\nthe predominant pretraining of LLMs on extensive web-based texts remains\ninsufficient for advanced scientific discovery, particularly in chemistry. The\nscarcity of specialized chemistry data, coupled with the complexity of\nmulti-modal data such as 2D graph, 3D structure and spectrum, present distinct\nchallenges. Although several studies have reviewed Pretrained Language Models\n(PLMs) in chemistry, there is a conspicuous absence of a systematic survey\nspecifically focused on chemistry-oriented LLMs. In this paper, we outline\nmethodologies for incorporating domain-specific chemistry knowledge and\nmulti-modal information into LLMs, we also conceptualize chemistry LLMs as\nagents using chemistry tools and investigate their potential to accelerate\nscientific research. Additionally, we conclude the existing benchmarks to\nevaluate chemistry ability of LLMs. Finally, we critically examine the current\nchallenges and identify promising directions for future research. Through this\ncomprehensive survey, we aim to assist researchers in staying at the forefront\nof developments in chemistry LLMs and to inspire innovative applications in the\nfield.",
+    "pdf_url": "http://arxiv.org/pdf/2412.19994v1",
+    "published": "2024-12-28"
+  },
+  "2411.07228v3": {
+    "title": "ChemToolAgent: The Impact of Tools on Language Agents for Chemistry Problem Solving",
+    "authors": [
+      "Botao Yu",
+      "Frazier N. Baker",
+      "Ziru Chen",
+      "Garrett Herb",
+      "Boyu Gou",
+      "Daniel Adu-Ampratwum",
+      "Xia Ning",
+      "Huan Sun"
+    ],
+    "summary": "To enhance large language models (LLMs) for chemistry problem solving,\nseveral LLM-based agents augmented with tools have been proposed, such as\nChemCrow and Coscientist. However, their evaluations are narrow in scope,\nleaving a large gap in understanding the benefits of tools across diverse\nchemistry tasks. To bridge this gap, we develop ChemToolAgent, an enhanced\nchemistry agent over ChemCrow, and conduct a comprehensive evaluation of its\nperformance on both specialized chemistry tasks and general chemistry\nquestions. Surprisingly, ChemToolAgent does not consistently outperform its\nbase LLMs without tools. Our error analysis with a chemistry expert suggests\nthat: For specialized chemistry tasks, such as synthesis prediction, we should\naugment agents with specialized tools; however, for general chemistry questions\nlike those in exams, agents' ability to reason correctly with chemistry\nknowledge matters more, and tool augmentation does not always help.",
+    "pdf_url": "http://arxiv.org/pdf/2411.07228v3",
+    "published": "2024-11-11"
+  },
+  "2109.12552v1": {
+    "title": "Theoretical Chemistry Course for Students in Chemistry",
+    "authors": [
+      "Qingyong Meng"
+    ],
+    "summary": "In this work, the teaching content of a theoretical-chemistry (TC) course is\nreformed, establishing a theoretical contents from micro- to macro-system, and\ncomprehensively introducing the theory of chemical reaction to undergraduate\nstudents in chemistry. In order to develop such TC course based on the general\nphysical-chemistry course, we focus on the last-mile problem between the\nphysics and chemistry courses to train the critical thinking of undergraduate\nstudents in chemistry. To clearly show this, a reduction scheme of polymer\nmolecular dynamics was discussed as an example, which shows a different\ntheoretical content in polymer chemistry. Moreover, we propose a series of\nexperiences and dependent measures that can provide information regarding\nstudents' levels of knowledge and understanding. This assessment quiz was\ndesigned to test students on the fundamental concepts and applications of TC,\nsuch as dynamics, statistical ensemble, kinetics, and so on. From the actual\nteaching for 36 students, it was found that these students performed\nsignificantly improvement from the present TC content. Further analysis of each\nindividual question revealed that approximately two-third of the students learn\nnew knowledge. Although the present TC course might be considered to be a\ncertain degree of difficulty for chemists, these analyses show that students\ncan effectively accept these complicated concepts.",
+    "pdf_url": "http://arxiv.org/pdf/2109.12552v1",
+    "published": "2021-09-26"
+  },
+  "2208.10978v1": {
+    "title": "Q$^2$Chemistry: A quantum computation platform for quantum chemistry",
+    "authors": [
+      "Yi Fan",
+      "Jie Liu",
+      "Xiongzhi Zeng",
+      "Zhiqian Xu",
+      "Honghui Shang",
+      "Zhenyu Li",
+      "Jinlong Yang"
+    ],
+    "summary": "Quantum computer provides new opportunities for quantum chemistry. In this\narticle, we present a versatile, extensible, and efficient software package,\nnamed Q$^2$Chemistry, for developing quantum algorithms and quantum inspired\nclassical algorithms in the field of quantum chemistry. In Q$^2$Chemistry, wave\nfunction and Hamiltonian can be conveniently mapped into the qubit space, then\nquantum circuits can be generated according to a specific quantum algorithm\nalready implemented in the package or newly developed by the users. The\ngenerated circuits can be dispatched to either a physical quantum computer, if\navailable, or to the internal virtual quantum computer realized by simulating\nquantum circuit on classical supercomputers. As demonstrated by our benchmark\nsimulations with up to 72 qubit, Q$^2$Chemistry achieves excellent performance\nin simulating medium scale quantum circuits. Application of Q$^2$Chemistry to\nsimulate molecules and periodic systems are given with performance analysis.",
+    "pdf_url": "http://arxiv.org/pdf/2208.10978v1",
+    "published": "2022-08-23"
+  },
+  "2303.10111v2": {
+    "title": "Theory and modeling of light-matter interactions in chemistry: current and future",
+    "authors": [
+      "Braden M. Weight",
+      "Xinyang Li",
+      "Yu Zhang"
+    ],
+    "summary": "Light-matter interaction not only plays an instrumental role in\ncharacterizing materials' properties via various spectroscopic techniques but\nalso provides a general strategy to manipulate material properties via the\ndesign of novel nanostructures. This perspective summarizes recent theoretical\nadvances in modeling light-matter interactions in chemistry, mainly focusing on\nplasmon and polariton chemistry. The former utilizes the highly localized\nphoton, plasmonic hot electrons, and local heat to drive chemical reactions. In\ncontrast, polariton chemistry modifies the potential energy curvatures of bare\nelectronic systems, and hence their chemistry, via forming light-matter hybrid\nstates, so-called polaritons. The perspective starts with the basic background\nof light-matter interactions, molecular quantum electrodynamics theory, and the\nchallenges of modeling light-matter interactions in chemistry. Then, the recent\nadvances in modeling plasmon and polariton chemistry are described, and future\ndirections toward multiscale simulations of light-matter interaction-mediated\nchemistry are discussed.",
+    "pdf_url": "http://arxiv.org/pdf/2303.10111v2",
+    "published": "2023-03-17"
+  }
+}

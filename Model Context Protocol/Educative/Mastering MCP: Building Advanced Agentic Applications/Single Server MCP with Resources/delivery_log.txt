@@ -1,0 +1,10 @@
+Order #10583: Delivered to San Diego
+Order #10584: Delivered to Austin 
+Order #10585: Delivered to Raleigh  
+Order #10586: Delivered to Omaha 
+Order #10587: Delivered to Orlando  
+Order #10588: Delivered to Denver  
+Order #10589: Delivered to Seattle  
+Order #10590: Delivered to Kansas City  
+Order #10591: Delivered to Madison  
+Order #10592: Delivered to Sacramento

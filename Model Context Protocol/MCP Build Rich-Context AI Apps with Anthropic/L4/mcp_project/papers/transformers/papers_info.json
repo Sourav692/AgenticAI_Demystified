@@ -1,0 +1,11 @@
+{
+  "gr-qc/0612006v1": {
+    "title": "The Xi-transform for conformally flat space-time",
+    "authors": [
+      "George Sparling"
+    ],
+    "summary": "The Xi-transform is a new spinor transform arising naturally in Einstein's\ngeneral relativity. Here the example of conformally flat space-time is\ndiscussed in detail. In particular it is shown that for this case, the\ntransform coincides with two other naturally defined transforms: one a\ntwo-variable transform on the Lie group SU(2, C), the other a transform on the\nspace of null split octaves. The key properties of the transform are developed.",
+    "pdf_url": "http://arxiv.org/pdf/gr-qc/0612006v1",
+    "published": "2006-12-01"
+  }
+}

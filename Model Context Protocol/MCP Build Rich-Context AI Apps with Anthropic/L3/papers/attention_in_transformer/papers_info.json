@@ -1,0 +1,24 @@
+{
+  "2412.09925v2": {
+    "title": "Simulating Hard Attention Using Soft Attention",
+    "authors": [
+      "Andy Yang",
+      "Lena Strobl",
+      "David Chiang",
+      "Dana Angluin"
+    ],
+    "summary": "We study conditions under which transformers using soft attention can\nsimulate hard attention, that is, effectively focus all attention on a subset\nof positions. First, we examine several subclasses of languages recognized by\nhard-attention transformers, which can be defined in variants of linear\ntemporal logic. We demonstrate how soft-attention transformers can compute\nformulas of these logics using unbounded positional embeddings or temperature\nscaling. Second, we demonstrate how temperature scaling allows softmax\ntransformers to simulate general hard-attention transformers, using a\ntemperature that depends on the minimum gap between the maximum attention\nscores and other attention scores.",
+    "pdf_url": "http://arxiv.org/pdf/2412.09925v2",
+    "published": "2024-12-13"
+  },
+  "2309.08593v1": {
+    "title": "Attention-Only Transformers and Implementing MLPs with Attention Heads",
+    "authors": [
+      "Robert Huben",
+      "Valerie Morris"
+    ],
+    "summary": "The transformer architecture is widely used in machine learning models and\nconsists of two alternating sublayers: attention heads and MLPs. We prove that\nan MLP neuron can be implemented by a masked attention head with internal\ndimension 1 so long as the MLP's activation function comes from a restricted\nclass including SiLU and close approximations of ReLU and GeLU. This allows one\nto convert an MLP-and-attention transformer into an attention-only transformer\nat the cost of greatly increasing the number of attention heads. We also prove\nthat attention heads can perform the components of an MLP (linear\ntransformations and activation functions) separately. Finally, we prove that\nattention heads can encode arbitrary masking patterns in their weight matrices\nto within arbitrarily small error.",
+    "pdf_url": "http://arxiv.org/pdf/2309.08593v1",
+    "published": "2023-09-15"
+  }
+}
